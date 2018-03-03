@@ -1,0 +1,5 @@
+deploy:
+  provider: s3
+  access_key_id: ""
+  secret_access_key: ""
+  bucket: "coffee.etsauer.com"
