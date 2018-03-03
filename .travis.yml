@@ -5,8 +5,7 @@ addons:
 install:
 - rm -rf public || exit 0
 script:
-- cd src
-- "../bin/hugo"
+- bin/hugo
 deploy:
   provider: s3
   access_key_id: AKIAIDEVIT2T435GVFWQ
