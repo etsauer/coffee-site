@@ -1,0 +1,29 @@
+---
+title: "Snow Day Smash"
+date: 2018-01-12T16:26:22-05:00
+image: img/posts/snow-day-smash-title.jpg
+showonlyimage: false
+---
+
+= Snow Day Smash
+
+This is the summary!
+
+<!--more-->
+
+Yields 1 cocktail
+
+== Ingredients
+
+[[ingredients]]
+--
+* 1/8 grapefruit
+* small handful blackberries
+* 3/4 ounce agave nectar
+* 2 ounces vodka
+* 1/4 teaspoon dried basil, or 2-3 fresh basil leaves
+--
+
+== Instructions
+
+Place all ingredients except for vodka in the glass half of a cocktail shaker. Muddle until all fruit release their juices. Add vodka and ice and shake for 30 seconds. Pour through strainer into a low ball glass with a single ice cube or sphere.

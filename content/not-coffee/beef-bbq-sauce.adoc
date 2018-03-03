@@ -1,0 +1,39 @@
+---
+title: "Bangin' Beef BBQ Sauce"
+date: 2018-01-12T16:26:22-05:00
+image: img/posts/bangin-beef-bbq-sauce.jpg
+showonlyimage: false
+---
+
+= Bangin' Beef BBQ Sauce
+
+This beef barbecue sauce is bangin'!
+
+<!--more-->
+
+Yields 1
+
+== Ingredients
+
+[[ingredients]]
+--
+* 1 cup apple cider vinegar
+* 1/4 cup ketchup
+* 1/2 cup porter mustard
+* 1 tablespoon worcestershire sauce
+* 1/4 cup steak sauce
+* 1 tablespoon hot sauce
+* 3 tablespoons tomato paste
+* 1/4 cup dijon mustard
+* 1 teaspoon paprika
+* 1/2 tablespoon ancho chili powder
+* 2 tablespoons brewed coffee
+* 5 strands of saffron
+* 2 tablespoons maple syrup
+* 1/4 cup brown sugar
+* salt and pepper to taste
+--
+
+== Instructions
+
+Combine all ingredients in a saucepan or saucier and bring to a simmer over medium heat, stirring slowly with a whisk. Reduce the heat to low and taste. Whisk in salt and pepper as needed.

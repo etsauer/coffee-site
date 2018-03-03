@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sauer Bros. Coffee Company"
+theme = "creative-portfolio"
+
+[params]
+
+style = "default"
+description = "Specialty Coffee Roasters & Food Products"
+copyright = "&copy;2018 Sauer Bros."
+sidebarAbout = [
+  "We roast coffee and ship it to your door, and show you some of the other awesome stuff we do, make, grow.",
+  "Tyler's in Flint, MI. Eric's in Raleigh, NC. How do they do it?"
+]
+# Contact page
+   # Since this template is static, the contact form uses www.formspree.io as a
+   # proxy. The form makes a POST request to their servers to send the actual
+   # email. Visitors can send up to a 1000 emails each month for free.
+   #
+   # What you need to do for the setup?
+   #
+   # - set your email address under 'email' below
+   # - upload the generated site to your server
+   # - send a dummy email yourself to confirm your account
+   # - click the confirm link in the email from www.formspree.io
+   # - you're done. Happy mailing!
+email = "etsauer@gmail.com"
+
+# Nav links in the side bar
+[[params.navlinks]]
+name = "Home"
+url = ""
+
+[[params.navlinks]]
+name = "The Brothers"
+url = "about/"
+
+#[[params.navlinks]]
+#name = "Coffe Talk"
+#url = "coffee/"
+
+#[[params.navlinks]]
+#name = "Food & Stuff..."
+#url = "recipes/"
+
+[[params.navlinks]]
+name = "Get in touch"
+url = "contact/"
+
+[params.social]
+#facebook      = "full page or profile url in facebook"
+#googleplus    = "full profile url in googleplus"
+email         = "etsauer@gmail.com"
+#twitter       = "full profile url in twitter"
+#linkedin      = "full profile url in linkedin"
+#stackoverflow = "full profile url in stackoverflow"
+instagram     = "https://www.instagram.com/sauer_e/"
+github        = "https://github.com/etsauer/coffee-site"

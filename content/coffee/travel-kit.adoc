@@ -1,0 +1,8 @@
+---
+title: "DIY Coffee Travel Kit"
+date: 2018-01-20T12:31:03-05:00
+draft: true
+image: img/posts/travel-kit.jpg
+---
+
+= Make Coffee on the Road with this Slick Travel Brew Kit
