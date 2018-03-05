@@ -4,6 +4,7 @@ addons:
     - python-pygments
 install:
 - gem install asciidoctor
+- mkdir -p public
 - rm -rf public || exit 0
 script:
 - bin/hugo
