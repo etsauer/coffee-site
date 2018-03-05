@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://coffee.etsauer.com.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Sauer Bros. Coffee Company"
 theme = "creative-portfolio"
