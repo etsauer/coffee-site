@@ -2,6 +2,7 @@ addons:
   apt:
     packages:
     - python-pygments
+    - asciidoctor
 install:
 - rm -rf public || exit 0
 script:
@@ -12,3 +13,5 @@ deploy:
   secret_access_key:
     secure: DVLYaIAFW4FXmBvjvU2hvps8Q73ECF/ov1VOx0eZV/Ax55Ph6XZ6fJ+N8Rgm8K4Wul0GakHLwb/EVI0corqFfaYbFTw0KHVKIwc4Sd5PTa7In5dK4vJ4WGEs2i/U0dGNGAJo+BgUslW9v4uRdcQNC3yrcT7QqthcVFB8wEv6vC/FLOe86DYiCnJWODCOZf+WJJZDDlq7Z6phMmpmoI1OvJbtdvXJjxX24Vq4HjdFAfMlRTPOoEWwT5Wt2HeazoZPcgXKjk/JaHjFmD4+mW+x3qtDjgsjTpldyJhZYb2e/3uJkimYJhwSkn69XiTUPmRRap/NGgaaWy/0Qc+urodpVK7pNU/yqOpQ1RvLI4wMZc4SxPzVjjjyE4NxVJdPxL1vjN8r3Z8meIi9oK/b79l3FkZumQfn153mQ+cp6MwKTsp5ak8X8G40yMzFnMrBEBXPqkm2aJxGTh491TVtfAuQykhfb+ABpR8hRgJB9jd7b5oCPKXtNaGLhTxmhsp0K5w5hrVWiuz21+xqZgaYMWEqRCvJCEL3G2xsLMaUDzCj8pb3uEpqFAFJUyXoL35aojcV31bwpNPEOjjZ2d0ZSyKKlWJS45H2+do9g1TAKbZwbQo7BmUjxz8oziCRjiWiSP36QrB4kFKejHTzlPyAJSvGptbLktdognnE7Ooue7k6b4Y=
   bucket: coffee.etsauer.com
+  skip_cleanup: true
+  local_dir: public
