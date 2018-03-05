@@ -2,8 +2,8 @@ addons:
   apt:
     packages:
     - python-pygments
-    - asciidoctor
 install:
+- gem install asciidoctor
 - rm -rf public || exit 0
 script:
 - bin/hugo
