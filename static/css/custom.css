@@ -1,0 +1,42 @@
+.content-column-content h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 2px;
+}
+
+.content-column-content h2, h3, h4, h5, h6 {
+  margin: 10px 0 18px 0;
+  color: #333;
+}
+
+.content-column-content h1 {
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.content-column-content h2 {
+  font-size: 1.4em;
+}
+
+.content-column-content ul {
+  margin: none;
+  -webkit-padding-start: 8px;
+}
+
+.content-column-content ol {
+  -webkit-padding-start: 20px;
+}
+
+.content-column-content ul {
+  border-left: 1px solid #ccc;
+}
+
+.content-column-content ul li:before {
+  content: none;
+}
+
+.content-column-content ul li {
+  line-height: 1.75em;
+}
+
+.content-column-content ul li p {
+  margin: 0;
+}

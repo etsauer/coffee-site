@@ -1,8 +1,35 @@
 ---
-title: "Aeropress Old Fashioned (Mocktail)"
+title: "Aeropress Old Fashioned"
 date: 2018-01-20T12:42:45-05:00
-draft: true
+draft: false
 image: /img/posts/coffee-old-fashioned.jpg
 ---
 
-= The Perfect Saturday Starts with an Aeropress Old Fashioned Mocktail
+The perfect saturday starts with an Aeropress old fashioned
+
+image::/img/posts/coffee-old-fashioned.jpg[Picture of a delicious beverage, 600]
+
+== The Software
+
+- 30 grams coffee beans
+- 200 grams water at 203&#8457;
+- 2 or 3 dashes agnostura bitters
+- orange peel
+- 3/4 oz simple syrup
+
+== The Hardware
+
+- Aeropress
+- Kettle
+- Grinder
+- Cocktail shaker
+- Low ball glass
+
+== Method
+
+1. **Grind the coffee** to a not quite espresso fineness. (on Baratza grinders it would be an 8/30)
+2. **Brew the coffee** in your inverted Aeropress.
+3. **Cool the coffee** at least to room temperature. You can let it set out or stick in the fridge if you're patient, but I prefer to brew it right over some fake ice cubes. Just don't use real ice made of water.
+4. **Make the drink**. In a cocktail shaker _with real ice_ combine the coffee, simple syrup and bitters and _SHAKE WITH ALL YOUR MIGHT_ for 20 seconds or so.
+5. **Pour the drink** through a fine mesh strainer into a low ball glass over ice.
+6. **Serve the drink** garnished with the orange peel. Roll the peel between your thumb finger over the glass to get all those essences out.
