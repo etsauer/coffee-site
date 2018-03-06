@@ -2,7 +2,30 @@
 title: "V60 Brew Guide"
 date: 2018-01-20T11:52:54-05:00
 draft: false
-image: img/posts/v60-method.jpg
+image: /img/posts/v60-method.jpg
 ---
 
-= V60 Brew Guide
+I bought my clear plastic link:https://www.hario.jp/[Hario v60] for $6 to take on a camping trip in 2011, and now years later is my go-to brewer. It is one of the best brewer options for any coffee with lighter body and fruit notes. Lately I've been using a cloth filter from link:http://coffeesock.com/[CoffeeSock] instead of the typical Hario paper filters.
+
+image::/img/posts/v60-method.jpg[V60 Setup,600]
+
+== Specs
+
+- **Coffee**: 18 grams
+- **Grind**: Medium; _15F - 16D on the Baratza_
+- **Water**: 324 grams
+- **Water Temp**: 203&#8457;
+- **Total Time**: 3:30
+
+== Notes
+
+1. Preheat and pre-wet your filter and mug with 150g - 200g of water.
++
+_TIP #1: Don't be an idiot, dump out your water_
+2. Add your ground coffee to the filter and shake it to even it out.
+3. Bloom. Start your timer and quickly pour out 40 - 50 grams of water. You want to make sure to agitate everything enough that it settles evenly.
+4. Pour. Start at 0:55 and pour as slowly as possible, from the middle out. You're aiming to hit 324 right at 2:30.
++
+_TIP #2: Be sure to hit the grounds on the edge, but don't hang out there too long._
+5. Allow a draw down for about a minute.
+6. Get a sip of the good stuff.
