@@ -1,12 +1,12 @@
-baseURL = "http://coffee.etsauer.com.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://coffee.etsauer.com"
 languageCode = "en-us"
-title = "Sauer Coffee Company"
+title = "Sauer on Coffee"
 theme = "creative-portfolio"
 
 [params]
 
 style = "default"
-description = "Specialty Coffee Roasters & Food Products"
+description = "Specialty Coffee Enthusiast and un-Professional"
 copyright = "&copy;2018 Sauer Bros."
 sidebarAbout = [
   "We roast coffee and ship it to your door, and show you some of the other awesome stuff we do, make, grow.",
