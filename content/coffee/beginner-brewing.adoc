@@ -1,0 +1,18 @@
+---
+title: "Introduction to Brewing Coffee at Home"
+date: 2018-04-24T22:13:05-04:00
+draft: true
+image: /img/posts/default.jpg
+---
+
+== Introduction to Brewing
+
+Now, all that said, there are good reasons that I don't drink the slightly brown liquid off my counter, and they don't stop at my failure to recall the last time I cleaned it.
+
+Let's talk through a few of them.
+
+=== Grinding
+
+=== Filtering
+
+The first reason is that ground coffee not fully soluble. This means that, no matter how long my grounds sit in water, they will not fully dissolve. This leaves bits of ground coffee in the water. Now, I don't personally enjoy chewy coffee, and link:https://en.wikipedia.org/wiki/Turkish_coffee[unless you are from the Middle East], chances are you don't either.

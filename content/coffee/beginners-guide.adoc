@@ -1,0 +1,62 @@
+---
+title: "Beginners Guide to Great Coffee"
+date: 2018-04-24T20:43:36-04:00
+draft: false
+image: /img/posts/default.jpg
+---
+
+I love coffee so much that I created a website about it just for fun! I want to help others enjoy it too. To the end, I think its important that we start at the beginning. If you're interested in exploring the world of coffee, and would like to have a better experience in your cup, then you are in the right place.
+<!--more-->
+
+image::/img/posts/default.jpg[Change This,600]
+
+== What is Brewing?
+
+_Brewing Coffee_ is the act of ground particles of a coffee bean coming in contact with water.
+
+_... wait, that's it? ..._
+
+Yes. That's it.
+
+The lukewarm water and coffee grounds that mix together after I've spilled them on my kitchen counter as I'm attempting to make my morning cup would be considered brewed coffee. And, if I think about it, I might rather drink that than some of the coffees I've tasted in the offices I visit during my day job.
+
+However, there's much more that goes into a great cup of coffee than simply getting some beans wet.
+
+_Brewing Great Coffee_ is the process of dissolving soluble solids, gases, and oils from coffee beans such that it brings out desirable flavors while avoiding undesirable flavors. To do this, the brewer (human or machine) must ensure that all of the coffee in the brew dissolves evenly, and that the process stops at the right moment to capture the right flavors. Stop the process too early, and the coffee will taste sour and acrid. Stop the process too late, and the coffee may taste bitter, dry, burnt, or papery.
+
+== So, What affects how my coffee tastes?
+
+There are many many variables that can affect the flavor of coffee. While trying to avoid overly detailed explanations, I would say that they fall into the following categories.
+
+=== Coffee Quality
+
+First, and foremost the quality, type, _origin_ (where the coffee comes from), and _freshness_ (number of days since roasting) of the coffee beans are the largest factor in the quality of your cup of coffee.
+
+A good indicator of high quality coffee is one that:
+
+- *Tells you what it is and where it came from* - look on the packaging for country, region, farm of origin
+- *Tells you when it was roasted* - look for a "roasted on" date, and shy away from coffees that are more than a month past roast
+
+=== Grind Quality
+
+Great coffee is ground fresh before brewing and is ground to a uniform size. This helps to ensure that the coffee _extracts_ evenly.
+
+=== Brewing Device and Method
+
+Not sure how much to say here.
+
+==== Immersion
+
+Talk about aeropress
+
+==== Pourover
+
+Not sure which device to talk about, as v60 is not the simplest to use
+
+=== The Water
+
+Water is the most prevalent ingredient in coffee. It stands to good reason that the quality of the water in your coffee matters.
+
+- The quality, mineral content, and temperature of the water used to brew the coffee
+
+http://www.middleschoolchemistry.com/lessonplans/chapter5/lesson6

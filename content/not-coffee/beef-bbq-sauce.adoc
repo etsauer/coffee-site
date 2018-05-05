@@ -1,8 +1,9 @@
 ---
 title: "Bangin' Beef BBQ Sauce"
 date: 2018-01-12T16:26:22-05:00
-image: img/posts/bangin-beef-bbq-sauce.jpg
+image: /img/posts/bangin-beef-bbq-sauce.jpg
 showonlyimage: false
+draft: true
 ---
 
 = Bangin' Beef BBQ Sauce

@@ -1,6 +1,6 @@
 baseURL = "http://coffee.etsauer.com"
 languageCode = "en-us"
-title = "Sauer on Coffee"
+title = "Sauer Coffee Labs"
 theme = "creative-portfolio"
 
 [params]
@@ -8,9 +8,9 @@ theme = "creative-portfolio"
 style = "default"
 description = "Specialty Coffee Enthusiast and un-Professional"
 copyright = "&copy;2018 Sauer Bros."
+homequote = "Pull up a mouth, we're about to drink some coffee."
 sidebarAbout = [
-  "We roast coffee and ship it to your door, and show you some of the other awesome stuff we do, make, grow.",
-  "Tyler's in Flint, MI. Eric's in Raleigh, NC. How do they do it?"
+  "Just another hipster... talkin' 'bout coffee"
 ]
 # Contact page
    # Since this template is static, the contact form uses www.formspree.io as a
@@ -32,16 +32,16 @@ name = "Home"
 url = ""
 
 [[params.navlinks]]
-name = "The Brothers"
+name = "Bio"
 url = "about/"
 
-#[[params.navlinks]]
-#name = "Coffe Talk"
-#url = "coffee/"
+[[params.navlinks]]
+name = "Coffe Talk"
+url = "coffee/"
 
-#[[params.navlinks]]
-#name = "Food & Stuff..."
-#url = "recipes/"
+[[params.navlinks]]
+name = "Other Stuff..."
+url = "not-coffee/"
 
 [[params.navlinks]]
 name = "Get in touch"

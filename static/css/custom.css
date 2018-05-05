@@ -1,3 +1,62 @@
+div#homepage {
+  position: relative;
+  height: 400px;
+}
+
+div#homepage {
+  display: flex;
+}
+
+.align-bottom {
+  align-self: flex-end;
+}
+
+.align-right {
+  margin-left: auto;
+}
+
+div#homepage blockquote {
+  color: #fff;
+  text-align: right;
+  font-size: 3em;
+  font-style: italic;
+  font-family: Georgia, serif;
+  border: none;
+}
+
+div#homepage::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: -1;
+  background-image: url("/img/posts/coffee-old-fashioned.jpg");
+  background-attachment: scroll;
+  background-position: center;
+  background-size: 2000px;
+}
+
+div.recent-content-title {
+}
+
+div.recent-content-title h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: #999;
+  font-size: 1.2em;
+  font-weight: normal;
+  border-bottom: #ddd 1px solid;
+  line-height: 0.1em;
+  margin: 20px 0 20px;
+}
+
+div.recent-content-title h1 span {
+  background: #f4f4f4;
+  padding: 0 10px;
+}
 
 .content-column-content h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
@@ -8,13 +67,21 @@
   color: #333;
 }
 
-.content-column-content h1 {
+.content-column-content h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   font-weight: 300;
 }
 
 .content-column-content h2 {
+  font-size: 1.6em;
+}
+
+.content-column-content h3 {
   font-size: 1.4em;
+}
+
+.content-column-content h4 {
+  font-size: 1.2em;
 }
 
 .content-column-content ul {

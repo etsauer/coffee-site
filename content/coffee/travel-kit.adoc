@@ -1,8 +1,33 @@
 ---
 title: "DIY Coffee Travel Kit"
 date: 2018-01-20T12:31:03-05:00
-draft: true
+draft: false
 image: img/posts/travel-kit.jpg
 ---
 
 = Make Coffee on the Road with this Slick Travel Brew Kit
+
+NOTE: This article contains affiliate links
+
+
+
+== Travel Coffee Inspiration
+
+== Parts and Pieces
+
+=== Aeropress
+
+The aeropress is a no-brainer as the brewer for a travel kit. It's compact, its made of durable plastic, and above all, it's an immersion brewer. Immersion brewing means the grounds are steeped in hot water for an amount of time, as opposed to pourover brewing, where water passes through ground coffee in a filter of some kind. For a travel kit, the immersion method has several advantages.
+
+- Immersion brewing does not require a fancy gooseneck kettle for precision pouring.
+- Immersion brewing is more forgiving of small changes to brew ratios. Since I don't have a gram scale available on the road, I want to have some flexibility in my recipe.
+
+
+
+link:https://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001HBCVX0&linkCode=as2&tag=etsauercoffee-20&linkId=ecbd4de3f8e9ec9c2f600ba50b74bc61[Buy the AeroPress Coffee Maker^]
+
+=== Porlex Mini
+
+link:https://amzn.to/2GrCquc[Buy the Porlex Mini Ginder^]
+
+=== Keep Cup

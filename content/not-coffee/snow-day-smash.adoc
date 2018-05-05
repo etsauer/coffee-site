@@ -1,13 +1,14 @@
 ---
 title: "Snow Day Smash"
 date: 2018-01-12T16:26:22-05:00
-image: img/posts/snow-day-smash-title.jpg
+image: /img/posts/snow-day-smash-title.jpg
 showonlyimage: false
+draft: false
 ---
 
 = Snow Day Smash
 
-This is the summary!
+It's hard to go wrong with a mashup of fresh fruit and liquor, but there's something extra special about this combination of blackberries and grapefruit. Enjoy!
 
 <!--more-->
 
@@ -20,7 +21,7 @@ Yields 1 cocktail
 * 1/8 grapefruit
 * small handful blackberries
 * 3/4 ounce agave nectar
-* 2 ounces vodka
+* 2 ounces vodka (or tequila)
 * 1/4 teaspoon dried basil, or 2-3 fresh basil leaves
 --
 
