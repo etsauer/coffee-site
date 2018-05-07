@@ -12,7 +12,7 @@ image::/img/posts/default.jpg[Change This,600]
 
 == What is Brewing?
 
-_Brewing Coffee_ is the act of ground particles of a coffee bean coming in contact with water.
+_Brewing Coffee_ is the act of bringing ground particles of a coffee bean in contact with water.
 
 _... wait, that's it? ..._
 
@@ -26,9 +26,9 @@ _Brewing Great Coffee_ is the process of dissolving soluble solids, gases, and o
 
 == So, What affects how my coffee tastes?
 
-There are many many variables that can affect the flavor of coffee. While trying to avoid overly detailed explanations, I would say that they fall into the following categories.
+There are many many variables that can affect the flavor of coffee. While trying to avoid overly detailed explanations, the following are the top 4 most important factors in making great coffee.
 
-=== Coffee Quality
+=== 1. Coffee Quality
 
 First, and foremost the quality, type, _origin_ (where the coffee comes from), and _freshness_ (number of days since roasting) of the coffee beans are the largest factor in the quality of your cup of coffee.
 
@@ -37,26 +37,44 @@ A good indicator of high quality coffee is one that:
 - *Tells you what it is and where it came from* - look on the packaging for country, region, farm of origin
 - *Tells you when it was roasted* - look for a "roasted on" date, and shy away from coffees that are more than a month past roast
 
-=== Grind Quality
+=== 2. Grind Quality
 
-Great coffee is ground fresh before brewing and is ground to a uniform size. This helps to ensure that the coffee _extracts_ evenly.
+Great coffee is ground fresh before brewing and is ground to a uniform size. This helps to ensure that the coffee _extracts_ evenly. The size of the grind depends on how the coffee is being brewed, and can also depend on the coffee itself.
 
-=== Brewing Device and Method
+Ground coffee should always be ground using a _burr grinder_, not a _blade grinder_.
 
-Not sure how much to say here.
+A _blade grinder_, which basically acts like a blender, is basically the equivalent of attempting to chop a pile of beans with a kitchen knife in each hand.. you're going end up with grinds of all kinds of different sizes, which means some grounds will _over extract_, creating very bitter or burnt flavors, and others will _over extract_, resulting in unpleasant sourness, "grassiness", and other undesirable flavors.
+
+A _burr grinder_ on the other hand uses toothed wheels or cones that fit closely together to crush the beans. A good burr set will have very sharp teeth to cleanly cut into the beans, and the distance between the burrs determines grind size. Burr grinders, therefore, produce much more consistent grinder than blade grinders and are always preferred.
+
+_There are a lot of good burr grinders on the market for all kinds of different use cases, which I don't want to get into just yet. In an attempt to help you get going, however, if you are simply looking for a low-cost, entry level grinder that will allow you to make great coffee, I would start with something like this or this._
+
+=== 3. Brewing Device and Method
+
+There are a ton of different brew devices out on the market, and each typically has many different methods for using them. In general, brewing devices fall into one of two brewing styles (or occasionally a hybrid of the two).
 
 ==== Immersion
 
-Talk about aeropress
+_Immersion brewing_ refers to brewing coffee by soaking the grounds in water for a period of time. After the right amount of time, the mixture is then forced through a filter of some kind, which allows the liquid to pass through, and holding the undissolved grounds behind. Immersion brewing is most commonly done through some type of coffee press, such as a French press, or the newer and very popular Aeropress.
 
-==== Pourover
+Coffee brewed using immersion methods tend to have bigger body, heavier mouthfeel, and therefore is more popular for use with coffees that have chocolately, nutty, or savory flavors. However, Immersion brewers are typically pretty versatile and can make great coffees across the spectrum.
 
-Not sure which device to talk about, as v60 is not the simplest to use
+_If you are looking to get started with coffee, I highly recommend the Aeropress as a good place to start for its forgivness and simplicity. Checkout our link:aeropress-method/[simple brew guide] for the Aeropress to get started using it._
 
-=== The Water
+==== Drip & Pourover
 
-Water is the most prevalent ingredient in coffee. It stands to good reason that the quality of the water in your coffee matters.
+_Drip brewing_ is the process of making coffee by water passing through a bed of coffee grounds. The grounds typically sit in a filter placed bed of some kind with a small opening in the bottom. Water is poured over the bed of grounds, wetting the coffee, and the extracted coffee flows out of the hole(s) in the bottom of the brew bed.
 
+This is the method used by most automatic home coffee makers.
+
+The key to making great coffee with a drip method is ensuring that the grounds all get wet evenly and at the same time. This can be a challenge and unfortunately is done very poorly in most automatic machines.
+
+=== 4. The Water
+
+Water is the most prevalent ingredient in coffee. It stands to good reason that the quality of the water in your coffee matters. At a minimum, coffee should be brewed with water put through a high quality filtration system. I use water out of my refrigerator's filtration system, and have had very good results. More recently, I've been using link:https://thirdwavewater.com/[Third Wave Water], which is a
+
+
+Notes:
 - The quality, mineral content, and temperature of the water used to brew the coffee
 
 http://www.middleschoolchemistry.com/lessonplans/chapter5/lesson6

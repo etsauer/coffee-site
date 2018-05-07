@@ -1,7 +1,20 @@
 ---
-title: "Aeropress Method"
+title: "Simple Inverted Aeropress Brew Method"
 date: 2018-01-20T12:31:17-05:00
-draft: true
+draft: false
+image: /img/posts/aeropress.jpg
 ---
 
-= How We Make Coffee with our Aeropress
+The great thing about the Aeropress is how easy it can be to use, and how forgiving it is when you don't get a recipe quite right. This makes it the ideal choice for traveling and for beginners just getting into coffee.
+
+<!--more-->
+
+image::/img/posts/aeropress.jpg[Change This,600]
+
+== Specs
+
+* **Coffee**: 18 grams
+* **Grind**: Medium-fine; _13D on my Baratza Preciso_
+* **Water**: 220 grams plus extra for heating the filter and mug
+* **Water Temp**: 206&#8457;
+* **Total Time**: about 2:10
