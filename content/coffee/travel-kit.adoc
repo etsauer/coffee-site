@@ -1,19 +1,23 @@
 ---
-title: "DIY Coffee Travel Kit"
+title: "Make Coffee on the Road with this Slick Traveler's Brew Kit"
 date: 2018-01-20T12:31:03-05:00
 draft: false
 image: img/posts/travel-kit.jpg
 ---
 
-= Make Coffee on the Road with this Slick Travel Brew Kit
+I travel frequently for work, and have spent many years subjected to office and hotel coffees that just plain bum me out. I finally decided that I had had enough and set out to put together a travelling coffee setup. This is the result of that quest.
 
-NOTE: This article contains affiliate links
+<!--more-->
+
+image::/img/posts/travel-kit.jpg[Travel Kit Image,600]
+
+== What I Look for in a Travel Kit
 
 
-
-== Travel Coffee Inspiration
 
 == Parts and Pieces
+
+I would like to talk a bit about the process I went through when choosing the things that went in this kit. Hopefully this will help you make some decisions on your own kit, whether or not you use the same things I used.
 
 === Aeropress
 
@@ -23,11 +27,14 @@ The aeropress is a no-brainer as the brewer for a travel kit. It's compact, its 
 - Immersion brewing is more forgiving of small changes to brew ratios. Since I don't have a gram scale available on the road, I want to have some flexibility in my recipe.
 
 
-
 link:https://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001HBCVX0&linkCode=as2&tag=etsauercoffee-20&linkId=ecbd4de3f8e9ec9c2f600ba50b74bc61[Buy the AeroPress Coffee Maker^]
 
-=== Porlex Mini
+=== Porlex Mini Grinder
 
 link:https://amzn.to/2GrCquc[Buy the Porlex Mini Ginder^]
 
 === Keep Cup
+
+=== Cool Shave Bag
+
+=== Other Useful Accessories

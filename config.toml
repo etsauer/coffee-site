@@ -1,6 +1,6 @@
 baseURL = "http://coffee.etsauer.com"
 languageCode = "en-us"
-title = "Sauer Coffee Labs"
+title = "Öffnen Coffee"
 theme = "creative-portfolio"
 
 [params]
@@ -40,7 +40,7 @@ name = "Coffe Talk"
 url = "coffee/"
 
 [[params.navlinks]]
-name = "Other Stuff..."
+name = "Beyond Coffee"
 url = "not-coffee/"
 
 [[params.navlinks]]

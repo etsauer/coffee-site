@@ -13,25 +13,34 @@ I bought my clear plastic link:https://www.hario.jp/[Hario v60] for $6 to take o
 
 image::/img/posts/v60-method.jpg[V60 Setup,600]
 
-== Specs
+== Software
 
+[.ingredients]
 * **Coffee**: 22 grams
 * **Grind**: Medium-fine; _13D on my Baratza Preciso_
 * **Water**: 360 grams plus extra for heating the filter and mug
 * **Water Temp**: 204&#8457;
 * **Total Time**: about 3:00
 
-== Notes
+== Hardware
 
-1. Preheat and pre-wet your filter and mug with 150g - 200g of water.
+[.ingredients]
+* Hario V60
+* Cloth or Paper Filter
+* Gram Scale
+* Ginder
+* Cup or Mug
+
+== Brew Steps
+
+1. **Preheat and pre-wet** your filter and mug with 150g - 200g of water.
 +
-_TIP #1: Don't be an idiot, dump out your water_
-2. Add your ground coffee to the filter and shake it to even it out.
-3. _Bloom_. Start your timer and quickly pour out 65 -75 grams of water.
-+
-Gently mix the grounds and water so that all of the grounds get wet as quickly as possible.
-4. _Pour_. Start at 0:45 and pour gently but quickly, filling the brewer, until you reach 360 grams.
+_TIP #1: Don't be an idiot like me. Dump out your water before you brew!_
+2. **Add your ground coffee** to the filter and shake it to even it out.
+3. **Bloom.** Start your timer and quickly pour out 65 -75 grams of water.
+4. **Gently mix** the grounds and water with a spoon or Aeropress stir stick so that all of the grounds get wet as quickly as possible.
+5. **Pour.** Start at 0:45 and pour gently but quickly, filling the brewer, until you reach 360 grams.
 +
 _TIP #2: Be sure to hit the grounds on the edge, but don't hang out there too long._
-5. Allow a draw down until about 3:00
-6. Get a sip of the good stuff.
+6. Allow a **draw down** until about 3:00
+7. Get a sip of the good stuff.

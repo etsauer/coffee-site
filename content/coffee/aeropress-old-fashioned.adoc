@@ -15,6 +15,7 @@ image::/img/posts/coffee-old-fashioned.jpg[Picture of a delicious beverage, 600]
 
 == The Software
 
+[.ingredients]
 * 30 grams coffee beans
 * 200 grams water at 203&#8457;
 * 2 or 3 dashes agnostura bitters
@@ -23,6 +24,7 @@ image::/img/posts/coffee-old-fashioned.jpg[Picture of a delicious beverage, 600]
 
 == The Hardware
 
+[.ingredients]
 * Aeropress
 * Kettle
 * Grinder
@@ -32,7 +34,7 @@ image::/img/posts/coffee-old-fashioned.jpg[Picture of a delicious beverage, 600]
 == Method
 
 1. **Grind the coffee** to a not quite espresso fineness. (on Baratza grinders it would be an 8/30)
-2. **Brew the coffee** in your inverted Aeropress.
+2. **Brew the coffee** in your link:/coffee/aeropress-method/[inverted Aeropress].
 3. **Cool the coffee** at least to room temperature. You can let it set out or stick in the fridge if you're patient, but I prefer to brew it right over some fake ice cubes. Just don't use real ice made of water.
 4. **Make the drink**. In a cocktail shaker _with real ice_ combine the coffee, simple syrup and bitters and _SHAKE WITH ALL YOUR MIGHT_ for 20 seconds or so.
 5. **Pour the drink** through a fine mesh strainer into a low ball glass over ice.

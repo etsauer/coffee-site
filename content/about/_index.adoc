@@ -1,6 +1,14 @@
 ---
 date: "2016-11-05T21:05:33+05:30"
-title: "Hi, I'm Mr. Eric"
+title: "About {{ .Site.title }}"
 ---
 
+[.author-bio]
+--
+image::/img/posts/default.jpg[Default Image,150,150]
+
+[discrete]
+== Eric Sauer
+
 My name is Mr. Eric, and I would like to say hello... to some coffee.
+--

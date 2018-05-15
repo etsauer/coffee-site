@@ -41,7 +41,9 @@ A good indicator of high quality coffee is one that:
 
 === 2. Grind Quality
 
-Great coffee is ground fresh before brewing and is ground to a uniform size. This helps to ensure that the coffee _extracts_ evenly. The size of the grind depends on how the coffee is being brewed, and can also depend on the coffee itself.
+Great coffee is ground fresh before brewing and is ground to a uniform size.
+
+This allows for the coffee to have an even _extraction_ when brewed. _Extraction_ is the degree to which solids, oils, and aromatics are washed away from the grounds. The amount of surface area of each bit of ground coffee plays a large part in determining how quickly a coffee extracts. The smaller the grind for a given amount of beans, the more surface area is exposed, and the faster the coffee will extract. This is important because different flavors are extracted at different stages of extraction. The desired size of the grind depends on the method with which the coffee is being brewed, and can also depend on the coffee itself.
 
 Ground coffee should always be ground using a _burr grinder_, not a _blade grinder_.
 
@@ -61,7 +63,10 @@ _Immersion brewing_ refers to brewing coffee by soaking the grounds in water for
 
 Coffee brewed using immersion methods tend to have bigger body, heavier mouthfeel, and therefore is more popular for use with coffees that have chocolately, nutty, or savory flavors. However, Immersion brewers are typically pretty versatile and can make great coffees across the spectrum.
 
-_If you are looking to get started with coffee, I highly recommend the Aeropress as a good place to start for its forgivness and simplicity. Checkout our link:/coffee/aeropress-method/[simple brew guide] for the Aeropress to get started using it._
+_If you are looking to get started with coffee, I highly recommend the Aeropress as a good place to start for its forgivness and simplicity._
+
+[.related]
+link:/coffee/aeropress-method/[Check out our Simple Aeropress Brewing Guide]
 
 ==== Drip & Pourover
 
@@ -73,7 +78,8 @@ The key to making great coffee with a drip method is ensuring that the grounds a
 
 _Pourover brewing_ is a sub category of drop brewing, which typically implies a manual process of pouring water over a bed of coffee. There are MANY different pourover devices available, but the two most iconic are probably the link:https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B002IR1O3A/ref=sr_1_5?s=kitchen&ie=UTF8&qid=1525652786&sr=1-5&keywords=hario%2Bv60&th=1[Hario v60] and the link:https://www.amazon.com/Chemex-Classic-Collar-Coffee-Filters/dp/B017M89J1I/ref=sr_1_6?s=home-garden&ie=UTF8&qid=1525652911&sr=1-6&keywords=chemex[Chemex].
 
-Check out our link:/coffee/v60-method/[v60 brew guide].
+[.related]
+link:/coffee/v60-method/[Check out our v60 brew guide]
 
 === 4. The Water
 

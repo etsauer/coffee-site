@@ -12,19 +12,32 @@ It's hard to go wrong with a mashup of fresh fruit and liquor, but there's somet
 
 <!--more-->
 
+image::/img/posts/snow-day-smash-title.jpg[Picture of a delicious beverage, 600]
+
 Yields 1 cocktail
 
-== Ingredients
+== Software
 
-[[ingredients]]
---
+[.ingredients]
 * 1/8 grapefruit
 * small handful blackberries
 * 3/4 ounce agave nectar
 * 2 ounces vodka (or tequila)
-* 1/4 teaspoon dried basil, or 2-3 fresh basil leaves
---
+* 1/4 teaspoon dried basil, or 5-8 fresh basil leaves
+
+== Hardware
+
+[.ingredients]
+* Cocktail shaker
+* Jigger
+* Low ball glass
+* Muddler
+* Cocktail Strainer
+* Fine Mesh strainer
 
 == Instructions
 
-Place all ingredients except for vodka in the glass half of a cocktail shaker. Muddle until all fruit release their juices. Add vodka and ice and shake for 30 seconds. Pour through strainer into a low ball glass with a single ice cube or sphere.
+1. Place all ingredients except for vodka in the glass half of a cocktail shaker
+2. Muddle until all fruit release their juices
+3. Add vodka and ice and shake for 30 seconds
+4. Pour through strainer into a low ball glass with a single ice cube or sphere

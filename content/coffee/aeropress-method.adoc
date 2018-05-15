@@ -5,16 +5,40 @@ draft: false
 image: /img/posts/aeropress.jpg
 ---
 
-The great thing about the Aeropress is how easy it can be to use, and how forgiving it is when you don't get a recipe quite right. This makes it the ideal choice for traveling and for beginners just getting into coffee.
+The great thing about the Aeropress is how easy it can be to use, and how forgiving it is when you don't get a recipe quite right. This makes it the ideal choice for traveling and for beginners just getting into coffee. I use mine most often as the brewer in my link:/coffee/travel-kit/[Travel Kit] that I use in offices and hotel rooms across the country.
+
+<!--more-->
+
+This is the method that I use with the Aeropress when I'm on the road. The beauty of it is that it is very forgiving. I don't travel with a scale or a digital kettle so I've tried to keep it all simple. In a hotel room, I use the little in room coffee maker with the brew basket removed to heat bottled water. In the office, I get my water from the hot water spigot in the break room coffee makers. Either way, with the exception of a few places that just used terrible water, I've had no problem making an enjoyable cup.
 
 <!--more-->
 
 image::/img/posts/aeropress.jpg[Change This,600]
 
-== Specs
+== Software
 
-* **Coffee**: 18 grams
-* **Grind**: Medium-fine; _13D on my Baratza Preciso_
+[.ingredients]
+* **Coffee**: 20 grams
+* **Grind**: Medium-fine; _setting 4 of 13 on my Porlex Mini hand grinder_
 * **Water**: 220 grams plus extra for heating the filter and mug
 * **Water Temp**: 206&#8457;
-* **Total Time**: about 2:10
+* **Total Time**: about 2:15
+
+== Hardware
+
+[.ingredients]
+* An Aeropress
+* A paper or cloth filter
+
+== Brew Steps
+
+1. **Set up** your Aeropress upside down with the plunger inserted into the chamber just far enough so that you don't see any rubber when you look at it from the side.
+2. **Pre-wet** your filter, lid & mug my placing filter cap upside down in your cup or mug.
+3. **Grind** your coffee and add it to the chamber. Shake the chamber so that you have a nice even bed.
+4. **Start your timer** and quickly pour your water in to just below the lip. You want to get all of the grounds saturated as quickly as possible so that the coffee extracts evenly.
+5. **Stir** the grounds just enough to ensure all the grounds are saturated.
+6. **Cap** the brew chamber with the filter, and ensure it is screwed on tight.
+7. **Flip.** At 1:30, carefully pick up your Aeropress, holding both pieces and turn it right side up so that the filter is setting in your cup.
+8. **Plunge** firmly and slowly until you hear the hiss of air.
+
+Drink & Enjoy!
