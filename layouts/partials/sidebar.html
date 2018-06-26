@@ -2,7 +2,8 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading">
       <a href="{{ .Site.BaseURL }}">
-        <img src="/img/logo.png" alt="{{ .Site.Title }}">
+        {{ .Site.Title }}
+        <!--<img src="/img/logo.png" alt="{{ .Site.Title }}">-->
       </a>
     </h1>
     {{ range .Site.Params.sidebarAbout }}

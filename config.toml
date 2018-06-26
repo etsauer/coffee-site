@@ -1,6 +1,6 @@
-baseURL = "http://mre.coffee"
+baseURL = "http://mre.coffee/"
 languageCode = "en-us"
-title = "Mr. E Coffee"
+title = "Mr. Eric on Coffee"
 theme = "creative-portfolio"
 
 [params]
