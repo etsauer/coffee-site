@@ -5,12 +5,14 @@ theme = "creative-portfolio"
 
 [params]
 
-style = "default"
+style = "blue"
+googleAnalytics = "UA-126144146-1"
 description = "Specialty Coffee Enthusiast and un-Professional"
 copyright = "&copy;2018 Sauer Bros."
 homequote = "Pull up a mouth, we're about to drink some coffee."
 sidebarAbout = [
-  "Just another hipster... talkin' 'bout coffee"
+  "With this site, I hope to:",
+  " - Help people discover the fun of coffee as a hobby<br/> - Provide value in the specialty coffee community<br/> - Combine my love for coffee and open sourced development"
 ]
 # Contact page
    # Since this template is static, the contact form uses www.formspree.io as a
@@ -54,5 +56,5 @@ email         = "etsauer@gmail.com"
 #twitter       = "full profile url in twitter"
 #linkedin      = "full profile url in linkedin"
 #stackoverflow = "full profile url in stackoverflow"
-instagram     = "https://www.instagram.com/sauer_e/"
+instagram     = "https://www.instagram.com/mre_coffee/"
 github        = "https://github.com/etsauer/coffee-site"
