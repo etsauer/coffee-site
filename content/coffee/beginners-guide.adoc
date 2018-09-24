@@ -47,9 +47,9 @@ This allows for the coffee to have an even _extraction_ when brewed. _Extraction
 
 Ground coffee should always be ground using a _burr grinder_, not a _blade grinder_.
 
-A _blade grinder_, which basically acts like a blender, is basically the equivalent of attempting to chop a pile of beans with a kitchen knife in each hand.. you're going end up with grinds of all kinds of different sizes, which means some grounds will _over extract_, creating very bitter or burnt flavors, and others will _over extract_, resulting in unpleasant sourness, "grassiness", and other undesirable flavors.
+A _blade grinder_, which basically acts like a blender, is basically the equivalent of attempting to chop a pile of beans with a kitchen knife in each hand.. you're going end up with grinds of all kinds of different sizes, which means some grounds will _over extract_, creating very bitter or burnt flavors, and others will _under extract_, resulting in unpleasant sourness, "grassiness", and other undesirable flavors.
 
-A _burr grinder_ on the other hand uses toothed wheels or cones that fit closely together to crush the beans. A good burr set will have very sharp teeth to cleanly cut into the beans, and the distance between the burrs determines grind size. Burr grinders, therefore, produce much more consistent grinder than blade grinders and are always preferred.
+A _burr grinder_ on the other hand uses toothed wheels or cones that fit closely together to crush the beans. A good burr set will have very sharp teeth to cleanly cut into the beans, and the distance between the burrs determines grind size. Burr grinders, therefore, produce much more consistent grounds than blade grinders and are always preferred.
 
 _There are a lot of good burr grinders on the market for all kinds of different use cases, which I don't want to get into just yet. In an attempt to help you get going, however, if you are simply looking for a low-cost, entry level grinder that will allow you to make great coffee, I would start with something like link:https://www.amazon.com/Hario-Ceramic-Coffee-Mill-Skerton/dp/B001802PIQ/ref=sr_1_4?ie=UTF8&qid=1525649598&sr=8-4&keywords=hand+crank+burr+coffee+grinder[this]._
 
@@ -63,7 +63,7 @@ _Immersion brewing_ refers to brewing coffee by soaking the grounds in water for
 
 Coffee brewed using immersion methods tend to have bigger body, heavier mouthfeel, and therefore is more popular for use with coffees that have chocolately, nutty, or savory flavors. However, Immersion brewers are typically pretty versatile and can make great coffees across the spectrum.
 
-_If you are looking to get started with coffee, I highly recommend the Aeropress as a good place to start for its forgivness and simplicity._
+_If you are looking to get started with coffee, I highly recommend the Aeropress as a good place to start for its forgiveness and simplicity._
 
 [.related]
 link:/coffee/aeropress-method/[Check out our Simple Aeropress Brewing Guide]
@@ -76,7 +76,7 @@ This is the method used by most automatic home coffee makers.
 
 The key to making great coffee with a drip method is ensuring that the grounds all get wet evenly and at the same time. This can be a challenge and unfortunately is done very poorly in most automatic machines.
 
-_Pourover brewing_ is a sub category of drop brewing, which typically implies a manual process of pouring water over a bed of coffee. There are MANY different pourover devices available, but the two most iconic are probably the link:https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B002IR1O3A/ref=sr_1_5?s=kitchen&ie=UTF8&qid=1525652786&sr=1-5&keywords=hario%2Bv60&th=1[Hario v60] and the link:https://www.amazon.com/Chemex-Classic-Collar-Coffee-Filters/dp/B017M89J1I/ref=sr_1_6?s=home-garden&ie=UTF8&qid=1525652911&sr=1-6&keywords=chemex[Chemex].
+_Pourover brewing_ is a sub category of drip brewing, which typically implies a manual process of pouring water over a bed of coffee. There are MANY different pourover devices available, but the two most iconic are probably the link:https://www.amazon.com/Hario-Ceramic-Coffee-Dripper-White/dp/B002IR1O3A/ref=sr_1_5?s=kitchen&ie=UTF8&qid=1525652786&sr=1-5&keywords=hario%2Bv60&th=1[Hario v60] and the link:https://www.amazon.com/Chemex-Classic-Collar-Coffee-Filters/dp/B017M89J1I/ref=sr_1_6?s=home-garden&ie=UTF8&qid=1525652911&sr=1-6&keywords=chemex[Chemex].
 
 [.related]
 link:/coffee/v60-method/[Check out our v60 brew guide]
@@ -85,7 +85,7 @@ link:/coffee/v60-method/[Check out our v60 brew guide]
 
 Water is the most prevalent ingredient in coffee. It stands to good reason that the quality of the water in your coffee matters. At a minimum, coffee should be brewed with water put through a high quality filtration system. I use water out of my refrigerator's filtration system, and have had very good results. More recently, I've been using link:https://thirdwavewater.com/[Third Wave Water], which is a packet of minerals you add to distilled water to make "the perfect brew water".
 
-The temperature of the water is also huge factor in how a brew turns out. The temperature of water link:http://www.middleschoolchemistry.com/lessonplans/chapter5/lesson6[affects the rate at which things dissolve] in it. It stands to reason, then that differences in water temperature will change how much a coffee will be extracted. Espresso, for example, is intended to be brewed very quickly, and therefore tends to be brewed at near boiling temperatures (205&#8457; - 212&#8457;). Cold brew, on the opposite end of the spectrum may be brewed over the course of several hours to several days. Most traditionally brewed coffees are brewed at temperatures between 195&#8457; and 205&#8457;.
+The temperature of the water is also a huge factor in how a brew turns out. The temperature of water link:http://www.middleschoolchemistry.com/lessonplans/chapter5/lesson6[affects the rate at which things dissolve] in it. It stands to reason, then that differences in water temperature will change how much a coffee will be extracted. Espresso, for example, is intended to be brewed very quickly, and therefore tends to be brewed at near boiling temperatures (205&#8457; - 212&#8457;). Cold brew, on the opposite end of the spectrum may be brewed over the course of several hours to several days. Most traditionally brewed coffees are brewed at temperatures between 195&#8457; and 205&#8457;.
 
 == What else to say?
 
