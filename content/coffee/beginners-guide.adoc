@@ -2,7 +2,7 @@
 title: "Beginners Guide to Great Coffee"
 date: 2018-04-24T20:43:36-04:00
 draft: false
-image: /img/posts/default.jpg
+image: /img/posts/coffee-dialing-in.jpg
 authors:
 - etsauer
 ---
@@ -10,9 +10,22 @@ authors:
 I love coffee so much that I created a website about it just for fun! I want to help others enjoy it too. To the end, I think its important that we start at the beginning. If you're interested in exploring the world of coffee, and would like to have a better experience in your cup, then you are in the right place.
 <!--more-->
 
-image::/img/posts/default.jpg[Change This,600]
+image::/img/posts/coffee-dialing-in.jpg[Change This,600]
 
-== What is Brewing?
+== Summary First!
+
+I'm going to attempt to save you some time by first presenting the important points I'm about to make in this article. Beyond this section you'll find more details and explanation, but in the case that you already believe me to be trustworthy, you can stop reading at the end of this section.
+
+_Great coffee should..._
+
+* tell you link:#_1_coffee_quality[where it was grown and when it was roasted] (less than a month ago).
+* be link:#_2_grind_quality[ground right before brewing using a burr grinder].
+* be brewed using a consistent method with measured ingredients and clean equipment.
+* be brewed with filtered, purified or third wave water.
+
+Phew! Read on for details and explanation for the aspiring coffee <insert preference of geek/nerd/enthusiast/connoisseur>.
+
+== What does it mean to brew Coffee?
 
 _Brewing Coffee_ is the act of bringing ground particles of a coffee bean in contact with water.
 
@@ -20,32 +33,82 @@ _... wait, that's it? ..._
 
 Yes. That's it.
 
-The lukewarm water and coffee grounds that mix together after I've spilled them on my kitchen counter as I'm attempting to make my morning cup would be considered brewed coffee. And, if I think about it, I might rather drink that than some of the coffees I've tasted in the offices I visit during my day job.
+The lukewarm water and coffee grounds that mix together after I've spilled them on my kitchen counter as I'm attempting to make my morning cup could be considered brewed coffee. And, if I think about it, I might rather drink that than some of the coffees I've tasted in the offices I visit during my day job.
 
 However, there's much more that goes into a great cup of coffee than simply getting some beans wet.
 
-_Brewing Great Coffee_ is the process of dissolving soluble solids, gases, and oils from coffee beans such that it brings out desirable flavors while avoiding undesirable flavors. To do this, the brewer (human or machine) must ensure that all of the coffee in the brew dissolves evenly, and that the process stops at the right moment to capture the right flavors. Stop the process too early, and the coffee will taste sour and acrid. Stop the process too late, and the coffee may taste bitter, dry, burnt, or papery.
+_Brewing Great Coffee_ is the process of dissolving (or _extracting_) soluble solids, gases, and oils from coffee beans such that it brings out desirable flavors while avoiding undesirable flavors. To do this, the brewer (human or machine) must ensure that all of the coffee in the brew dissolves evenly, and that the process stops at the right moment to capture the right flavors. Stop the process too early, and the coffee will taste sour and acrid. Stop the process too late, and the coffee may taste bitter, dry, burnt, or papery.
 
-== So, What affects how my coffee tastes?
+== So, What Makes Great Coffee?
 
-There are many many variables that can affect the flavor of coffee. While trying to avoid overly detailed explanations, the following are the top 4 most important factors in making great coffee.
+There are many many variables that can affect the flavor of coffee. While trying to avoid overly detailed explanations, the following are the top 4 most important factors that make up great coffee.
 
 === 1. Coffee Quality
 
-First, and foremost the quality, type, _origin_ (where the coffee comes from), and _freshness_ (number of days since roasting) of the coffee beans are the largest factor in the quality of your cup of coffee.
+_Great coffee should tell you where it was grown and be roasted less than a month prior to drinking. It should also avoid fluffy marketing language._
 
-A good indicator of high quality coffee is one that:
+The quality, type, _origin_ (where the coffee comes from), and _freshness_ (number of days since roasting) of the coffee beans are the largest factor in the quality and personality of your cup of coffee. No great food or drink can be made from bad ingredients. This is especially true when your beverage is made up of two ingredients.
 
-- *Tells you what it is and where it came from* - look on the packaging for country, region, farm of origin
-- *Tells you when it was roasted* - look for a "roasted on" date, and shy away from coffees that are more than a month past roast
+Judging the quality of a coffee without simply tasting it is nearly impossible. But, unfortunately we don't live in a perfect world and you rarely have the opportunity to taste before you buy. So I'm going to attempt to break down the various things that play into the quality of coffee, and then turn you lose with some simple shopping instructions.
+
+NOTE: Yes, water is absolutely an important ingredient. More on that in later.
+
+==== Just need to find that Arabica bean, right?
+
+Let's talk a bit about coffee the plant. The coffee tree is very sensitive. It likes to grow in moderate temperatures, but cannot withstand a frost. The only regions that fit the bill (on this planet, at least) are mountain regions in tropical climates. Most of the drinkable coffee in the world is from the species _coffea arabica_. The rest comes from the less desirable species "Robusta", named for its ability to sustain some harsher conditions than arabica. Basically, robusta is easier to grow, but not as tasty. Robusta is typically used as "fillers" in very cheap preground coffee, and as a natural flavor in food products like candy and ice cream. There are link:https://en.wikipedia.org/wiki/Coffea[many other species of coffea], but they are not commonly in use as a beverage or food product. Suffice it to say that, if you're drinking coffee right now, its very likely to be arabica.
+
+NOTE: So now you know that when your corner gas station is advertising that their coffee is "100% Arabica beans!", you'll sleep soundly knowing that they are using coffee the world deems acceptable for drinking.
+
+So if all of the coffee worth drinking is the same species, what makes one coffee different from another?
+
+==== Where and how... and what?
+
+Where a coffee is grown matters. This is because different combinations of water, soil nutrients, sunlight, humidity, temperature, elevation, etc. can bring out different flavors of coffee. For this reason, you can find drastically different coffees from different countries, different regions, or even from farm to farm.
+
+The farming and harvesting practices might make the largest difference in how a coffee turns out. Coffee trees require regular pruning and care to remain healthy and produce quality _cherries_. Then, those fruits must be hand picked at peak ripeness. This requires lots of hard work, and many farmers simply don't put that level of care into their work (or don't know to).
+
+Finally, I know we already covered that, for the most part, the species doesn't matter. However, within the Arabica species there has been a ton of work in the past few years in cultavating _varietals_ -- specific strains and subspecies. Examples of varietals include Caturra, Bourbon, Pacamara, and Gesha. These variations, whether intentionally breed or selected from nature, can have pretty significant impacts in the flavor profile.
+
+==== And then it's Processed.
+
+Once coffee is picked, it must be processed. _Coffee processing_ is the act of extracting the seeds, which we for some reason refer to as the "beans", from the coffee cherries before being roasted, ground, and brewed. There are two seeds per cherry, and the method by which they are extracted impacts flavor. There are 3 primary methods.
+
+_Wet processing_ (also known as _washing_) is a method that uses water to separate the fruit from the seeds. The separated seeds are then laid out to dry for several weeks before being packaged and shipped. Wet processed (or washed) coffees tend to have a very clean and pronounced flavors.
+
+_Natural processing_ (also known as _dry processing_, _sun drying_, or simply _natty_) is a process where the harvested cherries are laid out on large, usually wooden, beds in the sun and left to dry. Because the fruit is left on the seeds, it has a chance to impart extra flavors on the seeds. These can be very fruity flavors, as well as wild, sweet, or even fermented flavors. Natural processed coffees tend to have added complexity because of the drying, however if left out too long, could get overly funky.
+
+In between Wet and Dry processing, you have hybrids such as _honey processing_ and _pulped_. This means that some of the fruit and pulp is removed, but some is left on, and the partially separated seeds are left to ferment for varying amounts of time.
+
+Once the seeds are processed, they are packaged into cloth or plastic bags, loaded into shipping containers, and shipped all over the world to roasters.
+
+==== And Roasted.
+
+FINALLY!!! The coffee has now made it to your local coffee roastery. It's the job of the roaster to discover and unlock the flavor potential of a particular coffee bean. Depending on the makeup of sugars, fibers, lipids, etc. in a particular coffee as well as personal taste the ideal roast for a particular coffee could be anywhere from fairly light (sometimes known as a _city_ or _cinnamon_ roast) to very dark (also called _french_, _italian_, _vienna_, or my preferred _burnt_).
+
+No matter the roast profile, the most important key to great coffee is that your coffee is fresh roasted. From the moment the roasting process ends, coffee begins to _off-gas_. This means that the roasted beans are giving off carbon dioxide. While off-gasing, the CO~2~ is protecting the beans from being exposed to oxygen -- the coffee killer. Once the CO~2~ has all gone, the coffee beings to oxidize, essentially losing all character and flavor. With whole beans in an air-tight bag or container, off-gasing can last for up to a month. In an open or permeable container, maybe a few days. Once ground, coffee will lose its mojo in a matter of hours.
+
+NOTE: Don't drink coffee with no mojo!
+
+==== The point bean (get it?)?
+
+Now, you might be thinking "What was the point of all that?". You don't live near a coffee farm. You have no way of knowing whether your beans were grown, harvested, or processed with care. You also most likely don't have direct access to your roastery. How can this information be used to buy better coffee?
+
+While its impossible to know for sure, you can find indicators of good practices by looking for details about the coffee on the bag label. Producers and roasters who care about the quality of their products will typically go to extra lengths to tell you about them. The more detail, the better. However, I would recommend walking away from a coffee that doesn't at a minimum give you a roast date and a country (or countries if its a blend) of origin.
+
+So, to get back to the bullet points, a _great coffee is one that:_
+
+- *Tells you what it is and where it came from* - look on the packaging for country of origin at a minimum, but also things like region, the name of a farm, farmer or cooperative, altitude and varietal.
+- *Tells you when it was roasted* - look for a "roasted on" date, and shy away from coffees that are more than a month past roast.
 
 === 2. Grind Quality
 
-Great coffee is ground fresh before brewing and is ground to a uniform size.
+_Great coffee should be ground fresh before brewing._
+
+_Great coffee should be ground to a uniform size._
 
 This allows for the coffee to have an even _extraction_ when brewed. _Extraction_ is the degree to which solids, oils, and aromatics are washed away from the grounds. The amount of surface area of each bit of ground coffee plays a large part in determining how quickly a coffee extracts. The smaller the grind for a given amount of beans, the more surface area is exposed, and the faster the coffee will extract. This is important because different flavors are extracted at different stages of extraction. The desired size of the grind depends on the method with which the coffee is being brewed, and can also depend on the coffee itself.
 
-Ground coffee should always be ground using a _burr grinder_, not a _blade grinder_.
+_Great coffee should always be ground using a burr grinder, not a blade grinder_.
 
 A _blade grinder_, which basically acts like a blender, is basically the equivalent of attempting to chop a pile of beans with a kitchen knife in each hand.. you're going end up with grinds of all kinds of different sizes, which means some grounds will _over extract_, creating very bitter or burnt flavors, and others will _under extract_, resulting in unpleasant sourness, "grassiness", and other undesirable flavors.
 
@@ -81,12 +144,30 @@ _Pourover brewing_ is a sub category of drip brewing, which typically implies a 
 [.related]
 link:/coffee/v60-method/[Check out our v60 brew guide]
 
+==== Espresso
+
+Despite lots of confusion, no doubt due to marketing fluff and other misinformation on the internet, the term _espresso_ refers to a method of brewing, not a particular type, category, or flavor profile of coffee bean. _Espress brewing_ is the act of forcing water through a compacted bed of coffee (a _puck_) using pressurized air. Standard espresso machines target precisely 9 _bars_ of pressure as the ideal amount for brewing coffee.
+
+NOTE: 1 bar of pressure equals approximately 14.5038 psi, so espresso is brewed using over 130 pounds per square inch!
+
 === 4. The Water
 
 Water is the most prevalent ingredient in coffee. It stands to good reason that the quality of the water in your coffee matters. At a minimum, coffee should be brewed with water put through a high quality filtration system. I use water out of my refrigerator's filtration system, and have had very good results. More recently, I've been using link:https://thirdwavewater.com/[Third Wave Water], which is a packet of minerals you add to distilled water to make "the perfect brew water".
 
 The temperature of the water is also a huge factor in how a brew turns out. The temperature of water link:http://www.middleschoolchemistry.com/lessonplans/chapter5/lesson6[affects the rate at which things dissolve] in it. It stands to reason, then that differences in water temperature will change how much a coffee will be extracted. Espresso, for example, is intended to be brewed very quickly, and therefore tends to be brewed at near boiling temperatures (205&#8457; - 212&#8457;). Cold brew, on the opposite end of the spectrum may be brewed over the course of several hours to several days. Most traditionally brewed coffees are brewed at temperatures between 195&#8457; and 205&#8457;.
 
-== What else to say?
+== You Got it, Right?
 
-I'm not sure what else should go here.
+Ok, let's re-summarize.
+
+_Great coffee should..._
+
+* tell you where it was grown and when it was roasted (less than a month ago).
+* be ground right before brewing using a burr grinder.
+* be brewed using a consistent method with measured ingredients and clean equipment.
+* be brewed with filtered, purified or third wave water.
+
+Thanks for reading!
+
+[.related]
+If you're looking for somewhere to go from here, check out our link:/coffee/[brew guides and coffee recipes].
