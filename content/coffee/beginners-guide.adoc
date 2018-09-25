@@ -104,6 +104,8 @@ So, to get back to the bullet points, a _great coffee is one that:_
 
 _Great coffee should be ground fresh before brewing._
 
+We covered this a bit already when we talked about roasting, but I'll re-iterate here. Once ground your coffee begins to die (it oxidizes and begins to lose its aroma and flavor). You don't wanna drink dead coffee. So don't. Buy whole bean, and grind it right before you brew it.
+
 _Great coffee should be ground to a uniform size._
 
 This allows for the coffee to have an even _extraction_ when brewed. _Extraction_ is the degree to which solids, oils, and aromatics are washed away from the grounds. The amount of surface area of each bit of ground coffee plays a large part in determining how quickly a coffee extracts. The smaller the grind for a given amount of beans, the more surface area is exposed, and the faster the coffee will extract. This is important because different flavors are extracted at different stages of extraction. The desired size of the grind depends on the method with which the coffee is being brewed, and can also depend on the coffee itself.
@@ -114,7 +116,7 @@ A _blade grinder_, which basically acts like a blender, is basically the equival
 
 A _burr grinder_ on the other hand uses toothed wheels or cones that fit closely together to crush the beans. A good burr set will have very sharp teeth to cleanly cut into the beans, and the distance between the burrs determines grind size. Burr grinders, therefore, produce much more consistent grounds than blade grinders and are always preferred.
 
-_There are a lot of good burr grinders on the market for all kinds of different use cases, which I don't want to get into just yet. In an attempt to help you get going, however, if you are simply looking for a low-cost, entry level grinder that will allow you to make great coffee, I would start with something like link:https://www.amazon.com/Hario-Ceramic-Coffee-Mill-Skerton/dp/B001802PIQ/ref=sr_1_4?ie=UTF8&qid=1525649598&sr=8-4&keywords=hand+crank+burr+coffee+grinder[this]._
+NOTE: There are a lot of good burr grinders on the market for all kinds of different use cases, which I don't want to get into just yet. In an attempt to help you get going, however, if you are simply looking for a low-cost, entry level grinder that will allow you to make great coffee, I would start with something like link:https://www.amazon.com/Hario-Ceramic-Coffee-Mill-Skerton/dp/B001802PIQ/ref=sr_1_4?ie=UTF8&qid=1525649598&sr=8-4&keywords=hand+crank+burr+coffee+grinder[this].
 
 === 3. Brewing Device and Method
 

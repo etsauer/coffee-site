@@ -4,7 +4,6 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 
-
 h1, h2, h3, h4, h5, blockquote, .sidebar-menu,
 .admonitionblock, .related, .recent-content-title {
   font-family: 'Cousine', monospace;
@@ -174,6 +173,10 @@ div.recent-content-title h1 span {
   color: #2065a1;
   margin-bottom: .5em;
   padding: 1em;
+}
+
+.admonitionblock a {
+  color: #74b9fa;
 }
 
 .admonitionblock tr {
