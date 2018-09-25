@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Cousine|Roboto');
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, blockquote, .sidebar-menu,
+.admonitionblock, .related, .recent-content-title {
+  font-family: 'Cousine', monospace;
+}
+
 div#homepage {
   position: relative;
   height: 400px;
@@ -13,16 +25,18 @@ div#homepage {
 
 .align-right {
   margin-left: auto;
+  text-align: right;
   width: 50%;
 }
 
 div#homepage blockquote {
-  color: #fff;
-  text-align: right;
-  font-size: 3em;
-  font-style: italic;
-  font-family: Georgia, serif;
+  background-color: black;
   border: none;
+  color: #fff;
+  display: inline-block;
+  font-size: 3em;
+  text-align: right;
+  transform: rotate(3deg);
 }
 
 div#homepage::before {
@@ -34,7 +48,7 @@ div#homepage::before {
   height: 100%;
   opacity: 1;
   z-index: -1;
-  background-image: url("/img/posts/coffee-old-fashioned.jpg");
+  background-image: url("/img/banner-grounds.jpg");
   background-attachment: scroll;
   background-position: center;
   background-size: 2000px;
@@ -46,17 +60,20 @@ div.recent-content-title {
 div.recent-content-title h1 {
   text-transform: uppercase;
   text-align: center;
-  color: #999;
+  color: #555;
   font-size: 1.2em;
-  font-weight: normal;
-  border-bottom: #ddd 1px solid;
-  line-height: 0.1em;
-  margin: 20px 0 20px;
+  border-bottom: #dfdfe2 2px solid;
+  line-height: 0em;
+  margin: 1.5em 0;
 }
 
 div.recent-content-title h1 span {
   background: #f4f4f4;
   padding: 0 10px;
+}
+
+.content-column-content p, .content-column-content li {
+  color: #555;
 }
 
 .content-column h1, h2, h3, h4, h5, h6 {
@@ -70,7 +87,6 @@ div.recent-content-title h1 span {
 
 .content-column h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
-  font-weight: 300;
 }
 
 .content-column h2 {
@@ -117,7 +133,7 @@ div.recent-content-title h1 span {
 
 /* Styling for Author Bios */
 .author-bio {
-  background: #ddd;
+  background: #dfdfe2;
   padding: 10px;
 }
 
@@ -135,8 +151,55 @@ div.recent-content-title h1 span {
   grid-row: 1 / 2;
 }
 
+
 .related {
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid #dfdfe2;
+  border-bottom: 1px solid #dfdfe2;
   font-size: 1.2em;
+  font-weight: bold;
+}
+
+.related p {
+  margin: 1em;
+}
+
+.related p:before {
+  font-family: 'FontAwesome';
+  content:"\f0c1";
+  margin-right: .5em;
+}
+
+.admonitionblock {
+  background-color: #dfdfe2;
+  color: #2065a1;
+  margin-bottom: .5em;
+  padding: 1em;
+}
+
+.admonitionblock tr {
+  display: flex;
+  justify-content: center;
+}
+
+.admonitionblock .icon {
+  background-color: #2065a1;
+  margin: auto;
+}
+
+.admonitionblock .content {
+  padding: 0 0 0 1em;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.note td.icon .title {
+  visibility: hidden;
+}
+
+.note td.icon .title:before {
+  font-family: 'FontAwesome';
+  content:"\f0f4";
+  color: #fff;
+  visibility: visible;
+  margin-left: .47em;
 }
