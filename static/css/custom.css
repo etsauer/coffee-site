@@ -158,6 +158,10 @@ div.recent-content-title h1 span {
   font-weight: bold;
 }
 
+.related h2 {
+  font-size: 1em;
+}
+
 .related p {
   margin: 1em;
 }
@@ -178,6 +182,7 @@ div.recent-content-title h1 span {
 .admonitionblock a {
   color: #74b9fa;
 }
+
 
 .admonitionblock tr {
   display: flex;
@@ -205,4 +210,12 @@ div.recent-content-title h1 span {
   color: #fff;
   visibility: visible;
   margin-left: .47em;
+}
+
+table td {
+  padding: .5em;
+}
+
+table td p {
+  margin-bottom: 0
 }
