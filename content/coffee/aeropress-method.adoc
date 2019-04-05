@@ -1,5 +1,5 @@
 ---
-title: "Simple Inverted Aeropress Brew Method"
+title: "Brew Guide: Inverted Aeropress"
 date: 2018-01-20T12:31:17-05:00
 draft: false
 image: /img/posts/aeropress.jpg
@@ -33,7 +33,7 @@ image::/img/posts/aeropress.jpg[Change This,600]
 == Brew Steps
 
 1. **Set up** your Aeropress upside down with the plunger inserted into the chamber just far enough so that you don't see any rubber when you look at it from the side.
-2. **Pre-wet** your filter, lid & mug my placing filter cap upside down in your cup or mug.
+2. **Pre-wet** your filter, lid & mug by placing filter cap upside down in your cup or mug.
 3. **Grind** your coffee and add it to the chamber. Shake the chamber so that you have a nice even bed.
 4. **Start your timer** and quickly pour your water in to just below the lip. You want to get all of the grounds saturated as quickly as possible so that the coffee extracts evenly.
 5. **Stir** the grounds just enough to ensure all the grounds are saturated.

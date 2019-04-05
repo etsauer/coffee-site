@@ -1,0 +1,48 @@
+---
+title: "Brew Guide: Blue Bottle Dripper"
+date: 2018-10-25T09:07:08-04:00
+draft: false
+image: /img/posts/blue-bottle-dripper.jpg
+---
+
+Blue Bottle's pourover dripper might be the best, most consistent pourover brewer on the market. It's a flat bottom brewer with a single hole designed to control the flow rate of water passing through the coffee grounds. This means that the grind size of the coffee doesn't quite matter as much as it does in other drippers. Don't misinterpret this to mean that grind size doesn't matter. It still does. However, with something like the Blue Bottle, there's some forgiveness when your grind is a little short of _dialed in_.
+
+image::/img/posts/blue-bottle-dripper.jpg[Blue Bottle Dripper,600]
+
+== Software
+
+[.ingredients]
+- **Coffee**: 24 grams
+- **Grind**: Medium-fine; 5/13 on the Porlex Mini
+- **Water**: 400 grams for the brew, plus about 100 grams for pre-wetting
+- **Water Temp**: 204&#8457;
+- **Total Time**: 3:30
+
+== Hardware
+
+[.ingredients]
+- The Blue Bottle Dripper
+- Blue bottle filter, or other ruffled bamboo filter
+- Timer
+- Gram Scale
+
+== Quick Reference
+
+[options="header"]
+|===
+| Pour | Water | Start time | End time |
+| 1 | 75g | 0:00 | 0:45 |
+| 2 | 125g (200 total) | 0:45 | 1:15 |
+| 3 | 100g (300 total) | 1:15 | 1:45 |
+| 4 | 100g (400 total) | 1:45 | 2:15 |
+|===
+
+== Brew Steps
+
+1. Pre-wet filter, dripper and mug or carafe with 100g of water.
+2. Grind coffee and pour into filter-lined dripper. Shake to even the grounds.
+3. Start timer. Pour **75g** of water, starting in the center and working your way towards the outside. Make sure and hit the ruffles so that you don't end up with half-extracted grounds in your brew. The goal is to get all the grounds wet as evenly as possible. Swirl the dripper to even the grounds.
+4. At **0:45**, pour approximately **125g of water**, bringing the **total to 200g**. Use the same circular pouring motion as before. Swirl to even the grounds.
+5. At **1:15**, pour approximately **100g of water**, bringing the **total to 300g**. Use the same circular pouring motion as before. Swirl to even the grounds.
+6. At **2:00**, pour approximately **100g of water**, bringing the **total to 400g**. Use the same circular pouring motion as before. Swirl to even the grounds.
+7. Allow all water to drain. Pour and serve.

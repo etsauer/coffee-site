@@ -11,8 +11,7 @@ description = "Specialty Coffee Enthusiast and un-Professional"
 copyright = "&copy;2018 Sauer Bros."
 homequote = "Pull up a mouth, we're about to drink some coffee."
 sidebarAbout = [
-  "With this site, I hope to:",
-  " - Help people discover the fun of coffee as a hobby<br/> - Provide value in the specialty coffee community<br/> - Combine my love for coffee and open sourced development"
+  "The ramblings of an I.T. Pro who secretly aspires to be a barista/bartender."
 ]
 # Contact page
    # Since this template is static, the contact form uses www.formspree.io as a
