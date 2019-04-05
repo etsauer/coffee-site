@@ -2,7 +2,7 @@
 title: "Make Great Coffee on the Road with this DIY Travel Brew Kit"
 date: 2018-01-20T12:31:03-05:00
 draft: false
-image: img/posts/travel-kit.jpg
+image: /img/posts/travel-kit.jpg
 ---
 
 I travel frequently for work, and have spent many years subjected to office and hotel coffees that just plain bum me out. I finally decided that I had had enough and set out to put together a travelling coffee setup. This is the result of that quest.
