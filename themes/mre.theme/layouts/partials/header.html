@@ -10,10 +10,9 @@
 <link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
 <link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
+<link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ with .Site.Params.style }}
   <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
-{{ else }}
-  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ end }}
  <!-- Responsivity for older IE -->
 <!-- Just in case -->
