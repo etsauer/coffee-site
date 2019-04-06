@@ -5,7 +5,7 @@ title: "About"
 
 [.author-bio]
 --
-image::/img/posts/default.jpg[Default Image,150,150]
+image::/img/mr-eric.jpg[Mr Eric Bio Pic,250]
 
 [discrete]
 == Mr. Eric
