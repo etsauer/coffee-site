@@ -47,10 +47,10 @@ div#homepage::before {
   height: 100%;
   opacity: 1;
   z-index: -1;
-  background-image: url("/img/banner-grounds.jpg");
+  background-image: url("/img/home-table.jpg");
   background-attachment: scroll;
   background-position: center;
-  background-size: 2000px;
+  background-size: 100%;
 }
 
 div.recent-content-title {

@@ -1,7 +1,7 @@
 baseURL = "http://mre.coffee/"
 languageCode = "en-us"
 title = "Mr. Eric on Coffee"
-theme = "creative-portfolio"
+theme = "mre.theme"
 googleAnalytics = "UA-126144146-1"
 
 [params]
