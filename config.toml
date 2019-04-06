@@ -44,10 +44,6 @@ url = "coffee/"
 name = "Beyond Coffee"
 url = "not-coffee/"
 
-[[params.navlinks]]
-name = "Get in touch"
-url = "contact/"
-
 [params.social]
 #facebook      = "full page or profile url in facebook"
 #googleplus    = "full profile url in googleplus"
