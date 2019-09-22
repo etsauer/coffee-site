@@ -2,14 +2,14 @@
 title: "Coffee Glossary"
 date: 2019-05-17T13:37:08-04:00
 draft: false
-image: /coffee/glossary.jpg
+image: /coffee/img/glossary.jpg
 ---
 
 Coffee shops can be a confusing and intimidating place, especially if you don't know the terms. I'm going to try to help out by defining some of the common terms that trip people up. Hope it's useful!
 
 <!--more-->
 
-{{< img src="/coffee/glossary.jpg" alt="Screenshot of the Onion homepage" >}}
+{{< img src="/coffee/img/glossary.jpg" alt="Screenshot of the Onion homepage" >}}
 
 [glossary]
 == Coffee Preparation
