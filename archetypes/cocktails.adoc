@@ -1,0 +1,33 @@
+---
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
+image: /img/posts/{{ .TranslationBaseName }}.jpg
+draft: false
+---
+
+Explanation here.
+
+<!--more-->
+
+image::/img/posts/{{ .TranslationBaseName }}.jpg[Picture of a delicious beverage, 600]
+
+Yields 1 cocktail
+
+== Software
+
+[.ingredients]
+* list ingredients here
+
+== Hardware
+
+[.ingredients]
+* Cocktail shaker
+* Jigger
+* Low ball glass
+* Muddler
+* Cocktail Strainer
+* Fine Mesh strainer
+
+== Instructions
+
+1. Place all ingredients except for vodka in the glass half of a cocktail shaker

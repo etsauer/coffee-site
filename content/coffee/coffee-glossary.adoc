@@ -1,0 +1,107 @@
+---
+title: "Coffee Glossary"
+date: 2019-05-17T13:37:08-04:00
+draft: false
+image: /img/posts/glossary.jpg
+---
+
+Coffee shops can be a confusing and intimidating place, especially if you don't know the terms. We're gonna try to help you out.
+
+image::/img/posts/glossary.jpg[Mr. Eric Drinking Coffee,600]
+
+[glossary]
+== Coffee Preparation
+
+The Third Wave::
+  _The third wave_ refers to a third movement in the development of the coffee industry over the past 10 to 20 years, characterized by a much greater level of detail as to a coffee's quality, origin, and roast profile. The _first wave_ is defined by the general popularization of coffee as a commercialized commodity product from the early 1900s through the 1970s (think pre-ground grocery store coffee in a tin can brewed in your Mr. Coffee brewer). The _second wave_ of coffee refers to the initial popularization of the idea that coffee could be a gourmet item and a lifestyle trend rather than purely a caffeine delivery system. Starbucks, Peet's, Keurig and Dunkin' could all be associated with second wave coffee.
+
+Roaster (person or company)::
+  A coffee _roaster_ is someone or something who roasts coffee. The term roaster can be applied to a person, a company or a machine, depending on the context. The goal of a roaster should be to explore and find the roast profile that best captures a coffee's natural flavors.
+
+Roaster (machine)::
+  A _roaster_ is a machine that is used to roast coffee.
+
+Single Origin::
+  A _single origin_ coffee is one that comes from one particular place. Sometimes, this is country, a region of a country, or even a specific harvest from one particular farm (which is the most proper use of the term).
+
+Blend::
+  A _blend_ is an intentional combination of two or more _single origin_ coffees. Often, coffee roasters will select coffees from various varietals, farms, or parts of the world in an attempt to create a specific flavor profile. Done well, _blending_ can be used to provide a consistent, high quality product over many years despite changes to growing conditions, harvests, or availability of certain single origin beans. However, blending is also often used as a way to hide low quality products.
+
+Dialing In::
+  _Dialing in_ refers to a process through which the barista experiments with the various variables of the brewing process (e.g. grind size, water temperature, brew time, etc) in order to produce the best possible cup of coffee.
+
+Cupping::
+  Coffee _cupping_ is the practice of methodically tasting and evaluating roasted coffee in a controlled environment. The practice is mostly used by roasters and farmers to evaluate either the bean itself or the roast profile. When cupping, a very simple brewing process is used where small samples of coursely ground coffee is steeped in hot water in shallow cups, and then skimmed off the top. The cuppers then proceed to taste the samples in succession with spoons.
+
+Breaking the Crust::
+  During _cupping_, the cuppers go through a procedure called _breaking the crust_ where...
+
+[glossary]
+== Brewing Terminology
+
+Espresso::
+  _Espresso (a.k.a. 'spro)_ is a method of brewing very concentrated coffee very quickly by using pressure to force water through a compact disc of coffee grounds. This is most frequently done using a _semi-automatic espresso machine_ meaning that the pressure and temperature is regulated automatically by the machine, but the barista controls the time and therefore volume of water pushed through the grounds.
+
+Pulling a Shot::
+  The term _pulling a shot_ refers to the act of brewing a single serving of coffee using the espresso brewing method.
+
+Crema::
+  The _crema_ is the layer of very fine foam that forms naturally on top of a shot of espresso when brewed correctly.
+
+Batch Brewing::
+  _Batch brewing_ is the term used for brewing multiple cups of coffee using traditional coffee maker.
+
+Pourover::
+  _Pourover brewing_ is a method of brewing a small serving (usually 1-2 cups) of coffee using gravity.
+
+== Menu Items
+
+The following are terms that you'll frequently encounter in a cafe. This list is intended to assist in the process of ordering coffee.
+
+=== Espresso Drinks
+
+When you see the term _espresso_ on a coffee menu, this means you're getting a _shot_. In most 3rd wave shops, this means a _double shot_, which is around 2 oz of coffee.
+
+[glossary]
+==== Just Espresso
+
+Long Black::
+  Equal parts espresso and water. Originated in Australia.
+
+Americano::
+  One part espresso to four parts water. Originated in Italy.
+
+[glossary]
+==== Espresso with Milk
+
+Generally speaking, all of the milk-based beverages in specialty coffee shops use the same two ingredients -- a full bodied espresso shot and milk which is steamed such that it has produced _microfoam_. Some of the drinks, especially those that originated in Italy, would have traditionally used milk _foam_ which is lighter, drier and more airy than _microfoam_ which is smooth, rich and silky. However most third wave shops today tend to use microfoam only as it gives the drinks a luxurious velvety mouthfeel, and creates the opportunity to get creative with _latte art_. The main differences between these drinks anymore is the ratio of coffee to milk. Here's the kicker: every shop interprets this distinction a bit differently. The following is my definition of each drink, ordered approximately by the amount of milk in each.
+
+Macchiato::
+  A 1:1 ratio of espresso to milk, traditionally with foam. Originated in Italy.
+
+Cortado::
+  A 1:1 - 1:2 ratio of espresso to milk with microfoam only. Originated in Spain.
+
+Flat White::
+  A 1:3 ratio of espresso to milk with microfoam only. Originated in Australia and New Zealand.
+
+Cappucino::
+  A 1:4 ratio of espresso to milk with foam or microfoam. Originated in Italy
+
+Latte::
+  A 1:6 or less of espresso to milk with microfoam. Originated in France.
+
+[glossary]
+==== On The Sweeter Side
+
+Affagato::
+  Ice cream with a shot of espresso poured over it. Originated in Italy.
+
+Cubano::
+  A shot of espresso with sugar or brown sugar. Originated in Cuba.
+
+[.related]
+== Other articles you might like
+link:/coffee/blue-bottle-dripper/[Blue Bottle Dripper Brew Guide]
+
+link:/coffee/beginners-guide/[A Beginner's Guide to Great Coffee]
