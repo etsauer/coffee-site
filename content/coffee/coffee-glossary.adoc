@@ -2,14 +2,14 @@
 title: "Coffee Glossary"
 date: 2019-05-17T13:37:08-04:00
 draft: false
-image: /img/posts/glossary.jpg
+image: /coffee/glossary.jpg
 ---
 
 Coffee shops can be a confusing and intimidating place, especially if you don't know the terms. I'm going to try to help out by defining some of the common terms that trip people up. Hope it's useful!
 
 <!--more-->
 
-image::/img/posts/glossary.jpg[Mr. Eric Drinking Coffee,600]
+{{< img src="/coffee/glossary.jpg" alt="Screenshot of the Onion homepage" >}}
 
 [glossary]
 == Coffee Preparation
@@ -24,19 +24,19 @@ Roaster (machine)::
   A _roaster_ is a machine that is used to roast coffee.
 
 Single Origin::
-  A _single origin_ coffee is one that comes from one particular place. Sometimes, this is country, a region of a country, or even a specific harvest from one particular farm (which is the most proper use of the term).
+  A _single origin_ coffee is one that comes from one particular place. Sometimes this is country, a region of a country, or even a specific harvest from one particular farm (which is the most proper use of the term).
 
 Blend::
   A _blend_ is an intentional combination of two or more _single origin_ coffees. Often, coffee roasters will select coffees from various varietals, farms, or parts of the world in an attempt to create a specific flavor profile. Done well, _blending_ can be used to provide a consistent, high quality product over many years despite changes to growing conditions, harvests, or availability of certain single origin beans. However, blending is also often used as a way to hide low quality products.
 
 Dialing In::
-  _Dialing in_ refers to a process through which the barista experiments with the various variables of the brewing process (e.g. grind size, water temperature, brew time, etc) in order to produce the best possible cup of coffee.
+  _Dialing in_ refers to a process through which the barista experiments with the various variables of the brewing process (e.g. grind size, water temperature, brew time, etc.) in order to produce the best possible cup of coffee.
 
 Cupping::
   Coffee _cupping_ is the practice of methodically tasting and evaluating roasted coffee in a controlled environment. The practice is mostly used by roasters and farmers to evaluate either the bean itself or the roast profile. When cupping, a very simple brewing process is used where small samples of coursely ground coffee is steeped in hot water in shallow cups, and then skimmed off the top. The cuppers then proceed to taste the samples in succession with spoons.
 
 Breaking the Crust::
-  During _cupping_, the cuppers go through a procedure called _breaking the crust_ where...
+  During a _cupping_ session, the participants go through a procedure called _breaking the crust_ where one takes the back side of a tasting spoon and cuts into the layer of grounds that forms on the top (the crust) in order to release aromas. All participants then quickly walk around smelling each sample before they begin tasting.
 
 [glossary]
 == Brewing Terminology

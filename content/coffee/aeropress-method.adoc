@@ -2,7 +2,7 @@
 title: "Brew Guide: Inverted Aeropress"
 date: 2018-01-20T12:31:17-05:00
 draft: false
-image: /img/posts/aeropress.jpg
+image: /coffee/img/aeropress.jpg
 ---
 
 The great thing about the Aeropress is how easy it can be to use, and how forgiving it is when you don't get a recipe quite right. This makes it the ideal choice for traveling and for beginners just getting into coffee. I use mine most often as the brewer in my link:/coffee/travel-kit/[Travel Kit] that I use in offices and hotel rooms across the country.
@@ -13,7 +13,7 @@ This is the method that I use with the Aeropress when I'm on the road. The beaut
 
 <!--more-->
 
-image::/img/posts/aeropress.jpg[Change This,600]
+{{< img src="/coffee/img/aeropress.jpg" alt="Picture of my Aeropress" >}}
 
 == Software
 

@@ -2,12 +2,13 @@
 title: "Flair Espresso"
 date: 2018-09-25T21:31:33-04:00
 draft: true
-image: /img/posts/default.jpg
+image: /coffee/img/flair.jpg
 ---
 
 Intro text goes here
+<!--more-->
 
-image::/img/posts/default.jpg[Change This,600]
+{{< img src="/coffee/img/flair.jpg alt="Picture of a delicious beverage" >}}
 
 == Specs
 

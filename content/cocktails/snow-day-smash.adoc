@@ -1,18 +1,17 @@
 ---
 title: "Snow Day Smash"
 date: 2018-01-12T16:26:22-05:00
-image: /img/posts/snow-day-smash-title.jpg
+image: /cocktails/img/snow-day-smash-title.jpg
 showonlyimage: false
 draft: false
 ---
-
 = Snow Day Smash
 
 It's hard to go wrong with a mashup of fresh fruit and liquor, but there's something extra special about this combination of blackberries and grapefruit. Enjoy!
 
 <!--more-->
 
-image::/img/posts/snow-day-smash-title.jpg[Picture of a delicious beverage, 600]
+{{< img src="/cocktails/img/snow-day-smash-title.jpg" alt="Picture of a delicious beverage" >}}
 
 Yields 1 cocktail
 

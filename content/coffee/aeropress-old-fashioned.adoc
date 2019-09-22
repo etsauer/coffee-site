@@ -2,7 +2,7 @@
 title: "Aeropress Old Fashioned"
 date: 2018-01-20T12:42:45-05:00
 draft: false
-image: /img/posts/coffee-old-fashioned.jpg
+image: /coffee/img/coffee-old-fashioned.jpg
 tags:
 - recipes
 ---
@@ -11,7 +11,7 @@ This is a fun and refreshing change of pace drink. Part coffee, part cocktail, b
 
 <!--more-->
 
-image::/img/posts/coffee-old-fashioned.jpg[Picture of a delicious beverage, 600]
+{{< img src="/coffee/img/coffee-old-fashioned.jpg" alt="Picture of a Coffee Old Fashioned" >}}
 
 == The Software
 

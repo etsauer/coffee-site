@@ -2,14 +2,14 @@
 title: "Make Great Coffee on the Road with this DIY Travel Brew Kit"
 date: 2018-01-20T12:31:03-05:00
 draft: false
-image: /img/posts/travel-kit.jpg
+image: /coffee/img/travel-kit.jpg
 ---
 
 I travel frequently for work, and have spent many years subjected to office and hotel coffees that just plain bum me out. I finally decided that I had had enough and set out to put together a traveling coffee setup. This is the result of that quest.
 
 <!--more-->
 
-image::/img/posts/travel-kit.jpg[Travel Kit Image,600]
+{{< img src="/coffee/img/travel-kit.jpg" alt="Picture of my coffee travel kit" >}}
 
 == What I Look for in a Travel Kit
 
@@ -27,27 +27,27 @@ The Aeropress is a no-brainer as the brewer for a travel kit. It's compact, its 
 * Immersion brewing is more forgiving of small changes to brew ratios. Since I don't have a gram scale available on the road, I want to have some flexibility in my recipe.
 
 
-link:https://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001HBCVX0&linkCode=as2&tag=etsauercoffee-20&linkId=ecbd4de3f8e9ec9c2f600ba50b74bc61[Buy the AeroPress Coffee Maker^]
+link:https://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001HBCVX0&linkCode=as2&tag=etsauercoffee-20&linkId=ecbd4de3f8e9ec9c2f600ba50b74bc61[Buy the Aeropress Coffee Maker^]
 
 === Porlex Mini Grinder
 
-The Porlex Mini hand grinder is the obvious choice for a packable pairing with an Aeropress for one reason: it was designed to fit inside of your Aeropress chamber. I'm not sure that any other grinder can make that claim. It also does a great job grinding coffee. In fact, I often find myself using it at home to grind coffee for my aeropress, as it does produce a more consistent grind than my Baratza Setto 270, which is designed more for finer grinds for espresso. The Porlex mini has a ceramic burr set rather than metal, which means that it can be washed without risk of rusting. It has 13 grind settings which are adjusted with a ceramic wing nut under the burr.
+The Porlex Mini hand grinder is the obvious choice for a packable pairing with an Aeropress for one reason: it was designed to fit inside of your Aeropress chamber. I'm not sure that any other grinder can make that claim. It also does a great job grinding coffee. In fact, I often find myself using it at home to grind coffee for my Aeropress, as it does produce a more consistent grind than my Baratza Setto 270, which is designed more for finer grinds for espresso. The Porlex mini has a ceramic burr set rather than metal, which means that it can be washed without risk of rusting. It has 13 grind settings which are adjusted with a ceramic wing nut under the burr.
 
-link:https://amzn.to/2GrCquc[Buy the Porlex Mini Ginder^]
+link:https://amzn.to/2GrCquc[Buy the Porlex Mini Grinder^]
 
 === Keep Cup
 
 I love my link:https://keepcup.com[Keep Cup] in a travel kit for several reasons. I carry the 8oz cup, which is a perfect size for aeropress coffee.
 
-1. It comes with a lid, which makes it more suitable for travel than a mug or tin cup.
-2. It's glass, which makes it nicer for sipping with the lid off than a plastic travel cup.
-3. You can design your own, giving you a chance to personalize your setup.
+* It comes with a lid, which makes it more suitable for travel than a mug or tin cup.
+* It's glass, which makes it nicer for sipping with the lid off than a plastic travel cup.
+* You can design your own, giving you a chance to personalize your setup.
 
 If you would still prefer a mug or cup of some other kind, no one would hold it against you.
 
 === Carrying Case
 
-The final important component that makes these parts a 'kit' as a bag or case to carry it in. Mine is a leather shave bag that was gifted to me for this purpose from Amazon. However, I'm not going to provide any links here because I think everyone should get creative. As far as measurements, this will depend a bit on the cup you end up with, but I wouldn't go any smaller than 9" x 5" x 5".
+The final important component that makes these parts a 'kit' is a bag or case to carry it in. Mine is a leather shave bag that was gifted to me for this purpose from Amazon. However, I'm not going to provide any links here because I think everyone should get creative. As far as measurements, this will depend a bit on the cup you end up with, but I wouldn't go any smaller than 9" x 5" x 5".
 
 == Additional Items
 
@@ -55,7 +55,7 @@ At a very basic level, you'll additionally need the following items.
 
 === Filters
 
-I tend to carry a few Aeropress paper filters (they come with the Aeropress if you're buying one.) as well as a link:https://amzn.to/2N6HClP[metal filter from Able Brewing]. I have been experimenting with layering a paper and metal filter together, but if you like a gritter (french press style) cup, you can use the metal filter on its own.
+I tend to carry a few Aeropress paper filters (they come with the Aeropress if you're buying one.) as well as a link:https://amzn.to/2N6HClP[metal filter from Able Brewing]. I have been experimenting with layering a paper and metal filter together, but if you like a grittier (french press style) cup, you can use the metal filter on its own.
 
 === Something to stir with
 

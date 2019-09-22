@@ -2,12 +2,12 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-image: /img/posts/default.jpg
+image: /coffee/img/default.jpg
 ---
 
 Intro text goes here
 
-image::/img/posts/default.jpg[Change This,600]
+{{< img src="/coffee/img/{{ .TranslationBaseName }}.jpg alt="Picture of a delicious beverage" >}}
 
 == Specs
 

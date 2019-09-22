@@ -2,7 +2,7 @@
 title: "Brew Guide: Hario V60"
 date: 2018-01-20T11:52:54-05:00
 draft: false
-image: /img/posts/v60-method.jpg
+image: /coffee/img/v60-method.jpg
 tags:
 - brew guides
 ---
@@ -11,7 +11,7 @@ I bought my clear plastic link:https://www.hario.jp/[Hario v60] for $6 to take o
 
 <!--more-->
 
-image::/img/posts/v60-method.jpg[V60 Setup,600]
+{{< img src="/coffee/img/v60-method.jpg" alt="Picture of a v60 setup" >}}
 
 == Software
 

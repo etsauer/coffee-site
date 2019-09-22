@@ -1,6 +1,0 @@
----
-title: "Pulled Pork Breakfast Tacos"
-date: 2018-01-22T23:21:45-05:00
-draft: true
-image: /img/posts/breakfast-tacos.jpg
----

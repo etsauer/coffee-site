@@ -1,0 +1,7 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := .Page.Resources.GetMatch (printf "**%s" (.Get "src")) }}
+
+<img
+  src='{{ .Get "src" }}'
+  {{ with .Get "alt" }}alt='{{.}}'{{ end }}
+  class="img-responsive">

@@ -1,6 +1,6 @@
 baseURL = "http://mre.coffee/"
 languageCode = "en-us"
-title = "Mr. Eric on Coffee"
+title = "Mr. E Imbibes"
 theme = "mre.theme"
 googleAnalytics = "UA-126144146-1"
 
@@ -11,7 +11,11 @@ description = "Specialty Coffee Enthusiast and un-Professional"
 copyright = "&copy;2018 Sauer Bros."
 homequote = "Pull up a mouth, we're about to drink some coffee."
 sidebarAbout = [
-  "The ramblings of an I.T. Pro who secretly aspires to be a barista/bartender."
+  "The ramblings of an I.T. Pro who secretly aspires to be a barista & bartender."
+]
+mainSections = [
+  "coffee",
+  "cocktails",
 ]
 # Contact page
    # Since this template is static, the contact form uses www.formspree.io as a
@@ -37,12 +41,16 @@ name = "Bio"
 url = "about/"
 
 [[params.navlinks]]
-name = "Coffe Talk"
+name = "Coffee"
 url = "coffee/"
 
 [[params.navlinks]]
-name = "Beyond Coffee"
-url = "not-coffee/"
+name = "Cocktails"
+url = "cocktails/"
+
+#[[params.navlinks]]
+#name = "City Guides"
+#url = "cities/"
 
 [params.social]
 #facebook      = "full page or profile url in facebook"

@@ -2,12 +2,12 @@
 title: "Brew Guide: Blue Bottle Dripper"
 date: 2018-10-25T09:07:08-04:00
 draft: false
-image: /img/posts/blue-bottle-dripper.jpg
+image: /coffee/img/blue-bottle-dripper.jpg
 ---
 
 Blue Bottle's pourover dripper might be the best, most consistent pourover brewer on the market. It's a flat bottom brewer with a single hole designed to control the flow rate of water passing through the coffee grounds. This means that the grind size of the coffee doesn't quite matter as much as it does in other drippers. Don't misinterpret this to mean that grind size doesn't matter. It still does. However, with something like the Blue Bottle, there's some forgiveness when your grind is a little short of _dialed in_.
 
-image::/img/posts/blue-bottle-dripper.jpg[Blue Bottle Dripper,600]
+{{< img src="/coffee/img/blue-bottle-dripper.jpg" alt="Picture of a Blue Bottle Dripper" >}}
 
 == Software
 

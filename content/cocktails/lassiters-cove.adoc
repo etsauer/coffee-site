@@ -1,0 +1,48 @@
+---
+title: "Lassiters Cove"
+date: 2019-09-20T06:53:38-04:00
+image: /cocktails/img/lassiters-cove.jpg
+showonlyimage: false
+draft: false
+---
+
+This play on a classic daquiri is inspired by link:https://www.lassiterdistilling.com/[Lassiter Distilling's] _Rum au Cafe_.
+
+<!--more-->
+
+{{< img src="/cocktails/img/lassiters-cove.jpg" alt="Picture of a Lassiter's Cove cocktail" >}}
+
+Yields 1 cocktail
+
+== Software
+
+[.ingredients]
+* 1/2 oz fresh lime juice
+* 1/2 oz demerara syrup
+* 1 oz unaged column still rum (such as Lassiter's NC Rum)
+* 3/4 oz aged pot still rum
+* 1/4 oz coffee infused rum (such as Lassiter's Rum au Cafe)
+* 1 dash mole bitters
+* Garnish: lime wheel or peel
+
+NOTE: I love the mole bitters with this drink. Get it if you can. If you can't a tiki bitters would do nicely, or plain old Angostura is nice too. Just don't skip the bitters altogether.
+
+== Hardware
+
+[.ingredients]
+* Boston-style Cocktail shaker
+* Jigger
+* Coupe glass
+* Cocktail Strainer
+* Fine Mesh strainer
+
+== Instructions
+
+1. Place all ingredients in the small half of a cocktail shaker.
+1. Add 12oz ice to the shaker.
+1. Chill coupe glass by filling it with ice and a splash of water (so the ice doesn't stick).
+1. Shake until frost forms on the outside of the shaker.
+1. Dump the ice from coupe glass.
+1. Double strain into glass and serve with a lime wheel or peel.
+
+Cheers!

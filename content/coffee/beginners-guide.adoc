@@ -2,7 +2,7 @@
 title: "Beginners Guide to Great Coffee"
 date: 2018-04-24T20:43:36-04:00
 draft: false
-image: /img/posts/coffee-dialing-in.jpg
+image: /coffee/img/coffee-dialing-in.jpg
 authors:
 - etsauer
 ---
@@ -10,7 +10,7 @@ authors:
 I love coffee so much that I created a website about it just for fun! I want to help others enjoy it too. To the end, I think its important that we start at the beginning. If you're interested in exploring the world of coffee, and would like to have a better experience in your cup, then you are in the right place.
 <!--more-->
 
-image::/img/posts/coffee-dialing-in.jpg[Change This,600]
+{{< img src="/coffee/img/coffee-dialing-in.jpg" alt="Picture of coffee brewing gear" >}}
 
 == Summary First!
 

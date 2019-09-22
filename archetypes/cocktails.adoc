@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-image: /img/posts/{{ .TranslationBaseName }}.jpg
+image: /cocktails/img/{{ .TranslationBaseName }}.jpg
 draft: false
 ---
 
@@ -9,7 +9,7 @@ Explanation here.
 
 <!--more-->
 
-image::/img/posts/{{ .TranslationBaseName }}.jpg[Picture of a delicious beverage, 600]
+{{< img src="/cocktails/img/{{ .TranslationBaseName }}.jpg" alt="Picture of a delicious beverage" >}}
 
 Yields 1 cocktail
 
