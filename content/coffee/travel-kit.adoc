@@ -5,7 +5,7 @@ draft: false
 image: /img/posts/travel-kit.jpg
 ---
 
-I travel frequently for work, and have spent many years subjected to office and hotel coffees that just plain bum me out. I finally decided that I had had enough and set out to put together a travelling coffee setup. This is the result of that quest.
+I travel frequently for work, and have spent many years subjected to office and hotel coffees that just plain bum me out. I finally decided that I had had enough and set out to put together a traveling coffee setup. This is the result of that quest.
 
 <!--more-->
 
@@ -13,11 +13,11 @@ image::/img/posts/travel-kit.jpg[Travel Kit Image,600]
 
 == What I Look for in a Travel Kit
 
-First and foremost, my travel kit has to be capable of making good coffee. However, in order to be successful on the go, it has to be simple enough to use that I will actually use it. This means that it needs to support a faster brew time, and be easy to unpack, clean up and repack. For this reason, I chose not to with a pourover set up. Even though pourover is my favorite way to make my morning cup, it just requires too much equipment to do right. So I went about designing my kit around the Aeropress.
+First and foremost, my travel kit has to be capable of making good coffee. However, in order to be successful on the go, it has to be simple enough to use that I will actually use it. This means that it needs to support a faster brew time, and be easy to unpack, clean up and repack. For this reason, I chose not to go with a pourover set up. Even though pourover is my favorite way to make my morning cup, it just requires too much equipment to do right. So I went about designing my kit around the Aeropress.
 
 == Core Components
 
-I should mention that the setup I ended up with is largely based on link:https://www.stumptowncoffee.com/products/rambler[this great travel kit from Stumptown coffee], and if you wanted to, you could just buy it. But, as my loving girlfriend will attest to, I like to take the more difficult road. I also already owned an Aeropress and a few of the other components, so it felt wasteful to buy the whole set. So, for those of you who are like me, still reading, and want a more personalized approach to travel coffee, I hope this will help you make some decisions on your own kit, whether or not you use the same things I used.
+I should mention that the setup I ended up with is largely based on link:https://www.stumptowncoffee.com/products/rambler[this great travel kit from Stumptown coffee], and if you wanted to, you could just buy it. But, as my loving wife will attest to, I like to take the more difficult road. I also already owned an Aeropress and a few of the other components, so it felt wasteful to buy the whole set. So, for those of you who are like me, still reading, and want a more personalized approach to travel coffee, I hope this will help you make some decisions on your own kit, whether or not you use the same things I used.
 
 === Aeropress
 
