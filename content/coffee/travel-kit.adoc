@@ -21,7 +21,7 @@ I should mention that the setup I ended up with is largely based on link:https:/
 
 === Aeropress
 
-The aeropress is a no-brainer as the brewer for a travel kit. It's compact, its made of durable plastic, and above all, it's an immersion brewer. Immersion brewing means the grounds are steeped in hot water for an amount of time, as opposed to pourover brewing, where water passes through ground coffee in a filter of some kind. For a travel kit, the immersion method has several advantages.
+The Aeropress is a no-brainer as the brewer for a travel kit. It's compact, its made of durable plastic, and above all, it's an immersion brewer. Immersion brewing means the grounds are steeped in hot water for an amount of time, as opposed to pourover brewing, where water passes through ground coffee in a filter of some kind. For a travel kit, the immersion method has several advantages.
 
 * Immersion brewing does not require a fancy gooseneck kettle for precision pouring.
 * Immersion brewing is more forgiving of small changes to brew ratios. Since I don't have a gram scale available on the road, I want to have some flexibility in my recipe.
@@ -31,7 +31,7 @@ link:https://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_tl?ie=UTF8&camp=1789
 
 === Porlex Mini Grinder
 
-The Porlex Mini hand grinder is the obvious choice for a packable pairing with an Aeropress for one reason: it was designed to fit inside of your Aeropress chamber. I'm not sure that any other grinder can make that claim. It also does a great job grinding coffee. In fact, I often find myself using it at home to grind coffee for my aeropress, as it does produces a more consistent grind than my Baratza Setto 270, which is designed more for finer grinds for espresso. The Porlex mini has a ceramic burr set rather than metal, which means that it can be washed without risk of rusting. It has 13 grind settings which are adjusted with a ceramic wing nut under the burr.
+The Porlex Mini hand grinder is the obvious choice for a packable pairing with an Aeropress for one reason: it was designed to fit inside of your Aeropress chamber. I'm not sure that any other grinder can make that claim. It also does a great job grinding coffee. In fact, I often find myself using it at home to grind coffee for my aeropress, as it does produce a more consistent grind than my Baratza Setto 270, which is designed more for finer grinds for espresso. The Porlex mini has a ceramic burr set rather than metal, which means that it can be washed without risk of rusting. It has 13 grind settings which are adjusted with a ceramic wing nut under the burr.
 
 link:https://amzn.to/2GrCquc[Buy the Porlex Mini Ginder^]
 
