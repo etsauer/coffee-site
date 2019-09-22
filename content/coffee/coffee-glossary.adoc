@@ -5,7 +5,9 @@ draft: false
 image: /img/posts/glossary.jpg
 ---
 
-Coffee shops can be a confusing and intimidating place, especially if you don't know the terms. We're gonna try to help you out.
+Coffee shops can be a confusing and intimidating place, especially if you don't know the terms. I'm going to try to help out by defining some of the common terms that trip people up. Hope it's useful!
+
+<!--more-->
 
 image::/img/posts/glossary.jpg[Mr. Eric Drinking Coffee,600]
 
