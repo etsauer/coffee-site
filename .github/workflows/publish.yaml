@@ -17,15 +17,16 @@ jobs:
           sudo apt-get install -y python3-pygments
           gem install --user-install asciidoctor
 
+      - name: Add asciidoctor to PATH
+        run: echo "$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin" >> $GITHUB_PATH
+
       - name: Clean public directory
         run: |
           mkdir -p public
           rm -rf public || true
 
       - name: Build site
-        run: |
-          export PATH="$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin:$PATH"
-          bin/hugo
+        run: bin/hugo
 
   deploy:
     if: github.ref == 'refs/heads/main'
