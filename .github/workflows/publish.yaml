@@ -39,7 +39,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y python3-pygments
-          gem install --user-install asciidoctor
+          sudo gem install asciidoctor
 
       - name: Build site
         run: bin/hugo
