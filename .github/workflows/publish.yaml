@@ -15,10 +15,10 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y python3-pygments
-          gem install --user-install asciidoctor
+          sudo gem install asciidoctor
 
-      - name: Add asciidoctor to PATH
-        run: echo "$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin" >> $GITHUB_PATH
+      # - name: Add asciidoctor to PATH
+      #   run: echo "$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin" >> $GITHUB_PATH
 
       - name: Clean public directory
         run: |
