@@ -1,12 +1,12 @@
-name: Build and Deploy
+name: Build and Publish Hugo Site
 
 on:
   push:
     branches:
-      - main
+      - '**'
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,12 +15,31 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y python3-pygments
-          gem install asciidoctor
+          sudo gem install asciidoctor
+
+      # - name: Add asciidoctor to PATH
+      #   run: echo "$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin" >> $GITHUB_PATH
 
       - name: Clean public directory
         run: |
           mkdir -p public
           rm -rf public || true
+
+      - name: Build site
+        run: bin/hugo
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pygments
+          gem install --user-install asciidoctor
 
       - name: Build site
         run: bin/hugo
