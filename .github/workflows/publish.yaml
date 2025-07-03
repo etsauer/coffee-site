@@ -23,7 +23,9 @@ jobs:
           rm -rf public || true
 
       - name: Build site
-        run: bin/hugo
+        run: |
+          export PATH="$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin:$PATH"
+          bin/hugo
 
   deploy:
     if: github.ref == 'refs/heads/main'
