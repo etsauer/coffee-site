@@ -64,7 +64,7 @@ Once the site renders locally, choose one:
 - New Ansible role (e.g. `coffee_site`) that writes a Quadlet under `/etc/containers/systemd`, pulls the quay.io image, and publishes **only** `127.0.0.1:<port>:80`.
 - Extend the Caddy role from a single `caddy_domain` to **multiple site blocks**: keep `hass.mre.coffee` → HA; add `mre.coffee` (and optionally `www.mre.coffee`) → the blog port. Caddy already terminates TLS.
 - Extend GoDaddy DDNS so it keeps **apex** `mre.coffee` (and `www` if used) pointed at the home IP, not only `hass`.
-- Follow the hub’s existing safety path: local `test-coffee-site.yml` rehearsal, write-only default, `--check --diff` on the Pi, then enable in `site.yml` only after a known-good cutover.
+- Follow the hub’s existing safety path: local `test-coffee-site.yml` rehearsal, then `--check --diff` / apply on the Pi with `ansible/site.yml --tags coffee_site`. Write-only: `-e coffee_site_manage_service=false`.
 
 If the Quay repository is private, add a pull credential to hub `secrets.yml` (not committed) so the Pi can `podman pull`. A public repo is simpler.
 
@@ -121,7 +121,7 @@ Remaining: confirm the Quay repo name/namespace if it is not `etsauer/coffee-sit
 
 This work lives in the hub repo, not here.
 
-- New Quadlet role mirroring the hub’s `caddy` / `homeassistant` roles: templates, defaults, `*_manage_service`, rehearsal playbook.
+- Quadlet role in `site.yml` with tag `coffee_site` (localhost-only publish). Apply with `--tags coffee_site` after local `test-coffee-site.yml` rehearsal.
 - Multi-site Caddyfile (this is the main hub change — today’s role is single-domain `hass.mre.coffee`).
 - Image: `quay.io/<namespace>/coffee-site`. Public is simplest; if private, add a pull credential to `secrets.yml`.
 
