@@ -7,7 +7,7 @@ image: /coffee/img/default.jpg
 
 Intro text goes here
 
-{{< img src="/coffee/img/{{ .TranslationBaseName }}.jpg alt="Picture of a delicious beverage" >}}
+{{< img src="/coffee/img/{{ .TranslationBaseName }}.jpg" alt="Picture of a delicious beverage" >}}
 
 == Specs
 

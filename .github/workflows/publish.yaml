@@ -1,56 +1,88 @@
-name: Build and Publish Hugo Site
+name: Build and push container image
 
 on:
+  pull_request:
   push:
     branches:
-      - '**'
+      - main
+
+env:
+  IMAGE: quay.io/etsauer/coffee-site
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-pygments
-          sudo gem install asciidoctor
+      - uses: docker/setup-qemu-action@v3
 
-      # - name: Add asciidoctor to PATH
-      #   run: echo "$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin" >> $GITHUB_PATH
+      - uses: docker/setup-buildx-action@v3
 
-      - name: Clean public directory
-        run: |
-          mkdir -p public
-          rm -rf public || true
-
-      - name: Build site
-        run: bin/hugo
-
-  deploy:
-    if: github.ref == 'refs/heads/main'
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-pygments
-          sudo gem install asciidoctor
-
-      - name: Build site
-        run: bin/hugo
-
-      - name: Deploy to S3
-        uses: jakejarvis/s3-sync-action@v0.5.1
+      - uses: docker/login-action@v3
         with:
-          args: --acl public-read --delete
+          registry: quay.io
+          username: ${{ secrets.QUAY_USERNAME }}
+          password: ${{ secrets.QUAY_PASSWORD }}
+
+      - uses: docker/metadata-action@v5
+        id: meta
+        with:
+          images: ${{ env.IMAGE }}
+          tags: |
+            type=sha,prefix=sha-
+            type=ref,event=pr
+            type=raw,value=latest,enable={{is_default_branch}}
+
+      - uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: Containerfile
+          push: true
+          platforms: linux/amd64,linux/arm64
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Comment podman run command
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
         env:
-          AWS_S3_BUCKET: coffee.etsauer.com
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: us-east-1
-          SOURCE_DIR: public
+          IMAGE_TAGS: ${{ steps.meta.outputs.tags }}
+        with:
+          script: |
+            const tags = (process.env.IMAGE_TAGS || '').split('\n').map(t => t.trim()).filter(Boolean);
+            const shaTag = tags.find(t => t.includes(':sha-')) || tags[0];
+            if (!shaTag) {
+              core.setFailed('No image tag found to comment');
+              return;
+            }
+            const marker = '<!-- coffee-site-ci-image -->';
+            const body = `${marker}
+            Image for this build is on Quay.
+
+            \`\`\`sh
+            podman run --rm -it --replace --name coffee-site-prod -p 8080:80 ${shaTag}
+            \`\`\`
+
+            Then open http://localhost:8080/ (CSS/images use absolute \`https://mre.coffee/\` URLs until DNS points here).
+            `;
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner, repo, issue_number,
+            });
+            const existing = comments.find(c => c.user?.type === 'Bot' && c.body?.includes(marker));
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner, repo, comment_id: existing.id, body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number, body,
+              });
+            }

@@ -1,8 +1,13 @@
 baseURL = "http://mre.coffee/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Mr. E Imbibes"
 theme = "mre.theme"
-googleAnalytics = "UA-126144146-1"
+
+# Hugo 0.91+ blocks unspecified binaries and env vars.
+# AsciiDoc is rendered via the asciidoctor gem; GEM_HOME must be passed through.
+[security.exec]
+allow = ["^(dart-)?sass(-embedded)?$", "^go$", "^git$", "^npx$", "^postcss$", "^asciidoctor$"]
+osEnv = ["(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|GEM_.+|BUNDLE_.+|RUBY.+)$"]
 
 [params]
 

@@ -8,7 +8,7 @@ image: /coffee/img/flair.jpg
 Intro text goes here
 <!--more-->
 
-{{< img src="/coffee/img/flair.jpg alt="Picture of a delicious beverage" >}}
+{{< img src="/coffee/img/flair.jpg" alt="Picture of a delicious beverage" >}}
 
 == Specs
 
