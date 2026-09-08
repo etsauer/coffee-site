@@ -12,6 +12,9 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
 
@@ -44,3 +47,42 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+      - name: Comment podman run command
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        env:
+          IMAGE_TAGS: ${{ steps.meta.outputs.tags }}
+        with:
+          script: |
+            const tags = (process.env.IMAGE_TAGS || '').split('\n').map(t => t.trim()).filter(Boolean);
+            const shaTag = tags.find(t => t.includes(':sha-')) || tags[0];
+            if (!shaTag) {
+              core.setFailed('No image tag found to comment');
+              return;
+            }
+            const marker = '<!-- coffee-site-ci-image -->';
+            const body = `${marker}
+            Image for this build is on Quay.
+
+            \`\`\`sh
+            podman run --rm -it --replace --name coffee-site-prod -p 8080:80 ${shaTag}
+            \`\`\`
+
+            Then open http://localhost:8080/ (CSS/images use absolute \`https://mre.coffee/\` URLs until DNS points here).
+            `;
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner, repo, issue_number,
+            });
+            const existing = comments.find(c => c.user?.type === 'Bot' && c.body?.includes(marker));
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner, repo, comment_id: existing.id, body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner, repo, issue_number, body,
+              });
+            }
