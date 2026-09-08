@@ -1,0 +1,10 @@
+.git
+public
+bin
+*.md
+docs
+.github
+.travis.yml
+Gemfile
+Gemfile.lock
+scripts
